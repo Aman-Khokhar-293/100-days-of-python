@@ -28,7 +28,7 @@ My personal 100-day challenge to learn and master Python – code, logic, and pr
 
 
 #### 📁 Code Location:
-`/[Day01_Basic](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day1_Basic.ipynb)/`  
+[Day01_Basic](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day1_Basic.ipynb)  
 
 
 ---
