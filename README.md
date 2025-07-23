@@ -29,7 +29,7 @@ Each day I’ll share small projects, examples, and code
 - Mini projects: even/odd checker, greatest of 3 numbers, voting eligibility, simple login system
 
 #### 📁 Code Location:
-[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_2.ipynb))
+[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_2.ipynb)
 
 ---
 
