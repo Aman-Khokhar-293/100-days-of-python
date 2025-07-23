@@ -1,7 +1,9 @@
 # 🐍 100 Days of Python – Learning Journey
 Welcome to my 100-day challenge of learning Python from basics to advanced.  
 Each day I’ll share small projects, examples, and code   
-Platform used: **Google Colab**
+#### 🛠️ Platform / Tools Used:
+**Google Colab** 
+**Jupyter Notebook**
 
 ---
 
@@ -34,9 +36,6 @@ Platform used: **Google Colab**
 🔜 Next: Day 3 – Loops and iterations
 ---
 
-#### 🛠️ Platform / Tools Used:
-- **Google Colab** – Used as the IDE for running Python scripts in browser.
-  
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
