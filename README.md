@@ -2,7 +2,7 @@
 Welcome to my 100-day challenge of learning Python from basics to advanced.  
 Each day I’ll share small projects, examples, and code   
 #### 🛠️ Platform / Tools Used:
-**Google Colab** 
+**Google Colab** ,
 **Jupyter Notebook**
 
 ---
