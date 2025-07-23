@@ -1,38 +1,38 @@
-# 100-days-of-python
-My personal 100-day challenge to learn and master Python – code, logic, and projects all in one place.
+# 🐍 100 Days of Python – Learning Journey
+Welcome to my 100-day challenge of learning Python from basics to advanced.  
+Each day I’ll share small projects, examples, and code   
+Platform used: **Google Colab**
+
 ---
 
-### 📅 Day 1 – Python Fundamentals: Variables, Input/Output & Arithmetic
+### 📅 Day 1 – Python Basics
 
-#### 📘 Topics Covered:
-- Declaring and using variables (`int`, `float`, `str`, `bool`)
-- Multiple variable assignment and swapping
-- Type Conversion (casting): `int()`, `float()`, `str()`
-- Input from user using `input()`
-- Output using `print()` and `f-strings`
-- Arithmetic operations:
-  - Addition (`+`)
-  - Subtraction (`-`)
-  - Multiplication (`*`)
-  - Division (`/`)
-  - Floor Division (`//`)
-  - Modulus (`%`)
-  - Exponentiation (`**`)
-
-#### 🧠 Practice Programs:
-- Add two numbers entered by user
-- Greet the user using their name and age
-- Convert Celsius to Fahrenheit
-- Calculate Simple Interest: `SI = (P × R × T) / 100`
-
-
+- Variables & Data Types (`int`, `float`, `str`, `bool`)
+- User Input & Output
+- Type Casting
+- Arithmetic Operations (`+`, `-`, `*`, `/`, `%`, `//`, `**`)
+- Mini programs: sum of two numbers, greeting user, temperature converter, simple interest calculator
 
 #### 📁 Code Location:
 [Day01_Basic](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day1_Basic.ipynb)  
 
+---
+
+### 📅 Day 2 – Conditional Statements
+
+- `if`, `elif`, `else` statements
+- Comparison & Logical Operators
+- Nested Conditions
+- Shorthand if-else
+- Mini projects: even/odd checker, greatest of 3 numbers, voting eligibility, simple login system
+
+#### 📁 Code Location:
+[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_2.ipynb))
 
 ---
-🔜 **Next Day (Day 2)**: Conditional Statements (`if`, `elif`, `else`) and logical decision making!
+
+🔜 Next: Day 3 – Loops and iterations
+---
 
 #### 🛠️ Platform / Tools Used:
 - **Google Colab** – Used as the IDE for running Python scripts in browser.
