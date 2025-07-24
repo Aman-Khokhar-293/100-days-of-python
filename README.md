@@ -33,7 +33,13 @@ Each day I’ll share small projects, examples, and code
 
 ---
 
-🔜 Next: Day 3 – Loops and iterations
+📅 Day 3 – Loops in Python
+- Practiced for and while loops
+- Learned loop control statements: break, continue, pass
+- Built mini projects: multiplication table, factorial calculator, pattern printer, digit sum, vowel counter
+#### 📁 Code Location:
+[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_3.ipynb)
+
 ---
 
 ### 🙋‍♂️ Author
