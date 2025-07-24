@@ -38,7 +38,7 @@ Each day I’ll share small projects, examples, and code
 - Learned loop control statements: break, continue, pass
 - Built mini projects: multiplication table, factorial calculator, pattern printer, digit sum, vowel counter
 #### 📁 Code Location:
-[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_3.ipynb)
+[ Day_03 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_3.ipynb)
 
 ---
 
