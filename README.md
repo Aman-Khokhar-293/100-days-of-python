@@ -33,15 +33,26 @@ Each day I’ll share small projects, examples, and code
 
 ---
 
-📅 Day 3 – Loops in Python
+### 📅 Day 3 – Loops in Python
+
 - Practiced for and while loops
 - Learned loop control statements: break, continue, pass
 - Built mini projects: multiplication table, factorial calculator, pattern printer, digit sum, vowel counter
+- 
 #### 📁 Code Location:
 [ Day_03 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_3.ipynb)
 
 ---
+### 📅 Day 4 – Data Structures: Lists & Tuples
 
+- List creation and operations (`append()`, `insert()`, `remove()`, `pop()`)
+- Indexing and slicing in lists
+- Tuples: creation, immutability
+  
+###📂 Code Location :  
+[ Day_04 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_4.ipynb)
+
+---
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
