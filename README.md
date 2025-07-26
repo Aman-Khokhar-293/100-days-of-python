@@ -53,6 +53,17 @@ Each day I’ll share small projects, examples, and code
 [ Day_04 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_4.ipynb)
 
 ---
+### 📅 Day 5 – Data Structures: Sets & Dictionaries
+
+- Learned Sets: creation, add/remove elements, union, intersection, difference
+- Learned Dictionaries: CRUD operations, methods (keys, values, items, update)
+- Mini Projects:
+   ✅ Student Marks Tracker (using sets + dictionary)
+  
+#### 📂 Code Location :  
+[ Day_05 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_5.ipynb)
+
+---
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
