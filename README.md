@@ -64,6 +64,17 @@ Each day I’ll share small projects, examples, and code
 [ Day_05 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_5.ipynb)
 
 ---
+### 📅 Day 6 – String Manipulation: Slicing, Methods, Formatting
+• String slicing (positive & negative indexing)
+• String methods: upper(), lower(), strip(), replace(), split(), join()
+• Searching: find(), count(), startswith(), endswith()
+• String formatting: f-strings, format(), % operator
+• Mini programs: reverse a string, palindrome checker, vowel counter, user details formatter
+
+#### 📂 Code Location: 
+[ Day_06 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_6.ipynb)
+
+---
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
