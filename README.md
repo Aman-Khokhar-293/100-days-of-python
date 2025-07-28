@@ -75,6 +75,18 @@ Each day I’ll share small projects, examples, and code
 [ Day_06 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_6.ipynb)
 
 ---
+### 📅 Day 7 – Functions: Definition, Parameters, Return, Scope
+• Defining functions using def
+• Function parameters (positional, keyword, default)
+• Return statement
+• Variable scope (local vs global)
+• Mini programs: simple calculator, factorial function
+
+#### 📂 Code Location: 
+[ Day_07 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_7.ipynb)
+
+
+---
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
