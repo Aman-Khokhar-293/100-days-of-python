@@ -38,7 +38,7 @@ Each day I’ll share small projects, examples, and code
 - Practiced for and while loops
 - Learned loop control statements: break, continue, pass
 - Built mini projects: multiplication table, factorial calculator, pattern printer, digit sum, vowel counter
-- 
+  
 #### 📁 Code Location:
 [ Day_03 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_3.ipynb)
 
@@ -65,22 +65,22 @@ Each day I’ll share small projects, examples, and code
 
 ---
 ### 📅 Day 6 – String Manipulation: Slicing, Methods, Formatting
-• String slicing (positive & negative indexing)
-• String methods: upper(), lower(), strip(), replace(), split(), join()
-• Searching: find(), count(), startswith(), endswith()
-• String formatting: f-strings, format(), % operator
-• Mini programs: reverse a string, palindrome checker, vowel counter, user details formatter
+- String slicing (positive & negative indexing)
+- String methods: upper(), lower(), strip(), replace(), split(), join()
+- Searching: find(), count(), startswith(), endswith()
+- String formatting: f-strings, format(), % operator
+- Mini programs: reverse a string, palindrome checker, vowel counter, user details formatter
 
 #### 📂 Code Location: 
 [ Day_06 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_6.ipynb)
 
 ---
 ### 📅 Day 7 – Functions: Definition, Parameters, Return, Scope
-• Defining functions using def
-• Function parameters (positional, keyword, default)
-• Return statement
-• Variable scope (local vs global)
-• Mini programs: simple calculator, factorial function
+- Defining functions using def
+- Function parameters (positional, keyword, default)
+- Return statement
+- Variable scope (local vs global)
+- Mini programs: simple calculator, factorial function
 
 #### 📂 Code Location: 
 [ Day_07 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_7.ipynb)
