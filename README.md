@@ -87,6 +87,18 @@ Each day I’ll share small projects, examples, and code
 
 
 ---
+### 📅 Day 8 – Lambda Functions & Map/Filter/Reduce
+- Anonymous (lambda) functions
+- Using lambda with map()
+- Using lambda with filter()
+- Using lambda with reduce() from functools
+- Mini programs: square list using map, sum of even numbers using filter + reduce
+
+#### 📂 Code Location: 
+[ Day_08 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_8.ipynb)
+
+---
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
