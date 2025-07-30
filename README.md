@@ -98,7 +98,17 @@ Each day I’ll share small projects, examples, and code
 [ Day_08 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_8.ipynb)
 
 ---
+### 📅 Day 9 – Recursion: Concept, Examples, Practice
+- What is recursion and how it works
+- Base case and recursive case
+- Recursive call stack explanation
+- Practice with classic examples
+- Mini programs: factorial using recursion, sum of natural numbers (recursive)
 
+#### 📂 Code Location: 
+[ Day_09 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_9.ipynb)
+
+----
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
