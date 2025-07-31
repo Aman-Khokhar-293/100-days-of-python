@@ -29,7 +29,7 @@ Each day I’ll share small projects, examples, and code
 - Mini projects: even/odd checker, greatest of 3 numbers, voting eligibility, simple login system
 
 #### 📁 Code Location:
-[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_2.ipynb)
+[ Day_02 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_02.ipynb)
 
 ---
 
@@ -40,7 +40,7 @@ Each day I’ll share small projects, examples, and code
 - Built mini projects: multiplication table, factorial calculator, pattern printer, digit sum, vowel counter
   
 #### 📁 Code Location:
-[ Day_03 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_3.ipynb)
+[ Day_03 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_03.ipynb)
 
 ---
 ### 📅 Day 4 – Data Structures: Lists & Tuples
@@ -50,7 +50,7 @@ Each day I’ll share small projects, examples, and code
 - Tuples: creation, immutability
   
 #### 📂 Code Location :  
-[ Day_04 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_4.ipynb)
+[ Day_04 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_04.ipynb)
 
 ---
 ### 📅 Day 5 – Data Structures: Sets & Dictionaries
@@ -61,7 +61,7 @@ Each day I’ll share small projects, examples, and code
    ✅ Student Marks Tracker (using sets + dictionary)
   
 #### 📂 Code Location :  
-[ Day_05 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_5.ipynb)
+[ Day_05 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_05.ipynb)
 
 ---
 ### 📅 Day 6 – String Manipulation: Slicing, Methods, Formatting
@@ -72,7 +72,7 @@ Each day I’ll share small projects, examples, and code
 - Mini programs: reverse a string, palindrome checker, vowel counter, user details formatter
 
 #### 📂 Code Location: 
-[ Day_06 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_6.ipynb)
+[ Day_06 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_06.ipynb)
 
 ---
 ### 📅 Day 7 – Functions: Definition, Parameters, Return, Scope
@@ -83,7 +83,7 @@ Each day I’ll share small projects, examples, and code
 - Mini programs: simple calculator, factorial function
 
 #### 📂 Code Location: 
-[ Day_07 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_7.ipynb)
+[ Day_07 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_07.ipynb)
 
 
 ---
@@ -95,7 +95,7 @@ Each day I’ll share small projects, examples, and code
 - Mini programs: square list using map, sum of even numbers using filter + reduce
 
 #### 📂 Code Location: 
-[ Day_08 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_8.ipynb)
+[ Day_08 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_08.ipynb)
 
 ---
 ### 📅 Day 9 – Recursion: Concept, Examples, Practice
@@ -106,7 +106,7 @@ Each day I’ll share small projects, examples, and code
 - Mini programs: factorial using recursion, sum of natural numbers (recursive)
 
 #### 📂 Code Location: 
-[ Day_09 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_9.ipynb)
+[ Day_09 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_09.ipynb)
 
 ----
 ### 📅 Day 10 – Exception Handling: try/except, raise, finally
@@ -119,7 +119,7 @@ Each day I’ll share small projects, examples, and code
 #### 📂 Code Location:
 [ Day_10 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_10.ipynb)
 
-
+----
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
