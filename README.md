@@ -109,6 +109,17 @@ Each day I’ll share small projects, examples, and code
 [ Day_09 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_9.ipynb)
 
 ----
+### 📅 Day 10 – Exception Handling: try/except, raise, finally
+- Handling runtime errors using try and except blocks
+- Catching specific exceptions
+- Using raise to throw custom errors
+- finally block – runs no matter what
+- Mini programs: division with zero handling, age validator with raise
+
+#### 📂 Code Location:
+[ Day_10 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_10.ipynb)
+
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
