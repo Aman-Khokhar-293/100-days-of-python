@@ -120,6 +120,17 @@ Each day I’ll share small projects, examples, and code
 [ Day_10 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_10.ipynb)
 
 ----
+### 📅 Day 11 – File Handling: Read/Write, CSV, JSON
+- Reading and writing text files using open(), read(), write()
+- Working with CSV files using csv module
+- Reading and writing JSON data using json module
+- Understanding file modes: r, w, a, r+
+- Mini programs: writing/reading text file, parsing JSON data
+
+#### 📂 Code Location:
+[ Day_11 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_11.ipynb)
+
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
