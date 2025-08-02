@@ -130,6 +130,19 @@ Each day I’ll share small projects, examples, and code
 #### 📂 Code Location:
 [ Day_11 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_11.ipynb)
 
+----
+### 📅 Day 12 – List Comprehension & Dictionary Comprehension
+- What is List Comprehension and why it's better than traditional loops
+- Using conditions inside list comprehension
+- Nested list comprehension
+- Dictionary comprehension basics and examples
+- When to use comprehension vs loops
+- Mini programs: square list, filter even numbers, word length dictionary
+
+#### 📂 Code Location:
+[ Day_12 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_12.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
