@@ -143,6 +143,18 @@ Each day I’ll share small projects, examples, and code
 [ Day_12 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_12.ipynb)
 
 ----
+### 📅 Day 13 – Modules & Packages in Python
+- `import` statement and how to use built-in modules
+- `from module import something` syntax
+- Creating and using custom modules
+- Exploring standard libraries like `math`, `random`, `datetime`
+- Mini projects: random password generator, custom greeting module
+
+#### 📂 Code Location: 
+[ Day_13 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_13.ipynb)
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
