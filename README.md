@@ -156,6 +156,17 @@ Each day I’ll share small projects, examples, and code
 [greeting_module](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/greeting_module.py)
 
 ----
+### 📅 Day 14 – Python Date & Time Module**
+
+- Learned how to work with dates and times using the `datetime` module
+- Explored `datetime.now()`, `date.today()`, `timedelta`, and `strftime` formatting
+- Parsed strings into datetime objects and performed date arithmetic
+- Mini project: Days left until New Year 🎉
+
+#### 📂 Code Location: 
+[ Day_14 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_14.ipynb)
+
+----
 
 
 ### 🙋‍♂️ Author
