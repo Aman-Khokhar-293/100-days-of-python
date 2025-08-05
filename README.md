@@ -167,11 +167,11 @@ Each day I’ll share small projects, examples, and code
 [ Day_14 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_14.ipynb)
 
 ----
-🔢 Day 15 – Math & Random Modules
--Math Module,
- Functions covered: sqrt(), pow(), ceil(), floor(), fabs(), factorial(), log(), sin(), cos(), constants like pi, etc.
--Random Module,
-  Functions explored: random(), randint(), uniform(), choice(), shuffle(), randrange()
+### 📅 Day 15 – Math & Random Modules
+- Math Module,
+    Functions covered: sqrt(), pow(), ceil(), floor(), fabs(), factorial(), log(), sin(), cos(), constants like pi, etc.
+- Random Module,
+   Functions explored: random(), randint(), uniform(), choice(), shuffle(), randrange()
 
 #### 📁 Code Location: 
 [ Day_15 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_15.ipynb)
