@@ -177,7 +177,22 @@ Each day I’ll share small projects, examples, and code
 [ Day_15 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_15.ipynb)
 
 ---- 
+### 📅 Day 16 – Object-Oriented Programming (OOP)
+-Introduction to Classes and Objects
+-Understanding Attributes (instance variables)
+--__init__() constructor method
+-Creating and using methods
+-ccessing and modifying attributes
+-Basic OOP example: Student class
+-🧠 Mini Projects:
+--Student Info System,
+Bank Account Class
 
+📁 Code Location: 
+[ Day_16 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_16.ipynb)
+
+
+----
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
