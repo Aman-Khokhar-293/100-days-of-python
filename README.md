@@ -191,8 +191,22 @@ Bank Account Class
 #### 📁 Code Location: 
 [ Day_16 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_16.ipynb)
 
+----
+### 📅 Day 17 – OOP in Python (Part 2)
+- __init__() Constructor (default and parameterized)
+- Single Inheritance
+- Accessing Parent Class properties/methods using super()
+- Method Overriding
+- isinstance() and issubclass() functions
+- 🧠 Mini Projects:
+- Vehicle → Car (Inheritance Example)
+- Employee → Manager (Overriding Example)
+
+#### 📁 Code Location: 
+[ Day_17 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_17.ipynb)
 
 ----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
