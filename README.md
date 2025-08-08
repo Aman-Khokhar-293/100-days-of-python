@@ -207,6 +207,21 @@ Bank Account Class
 
 ----
 
+### 📅  OOP in Python (Part 3)
+- Polymorphism: Same method, different behavior
+- Duck Typing in Python
+- Encapsulation: Hiding data using private/protected attributes
+- Getter & Setter methods
+- Name mangling with __var
+- 🧠 Mini Projects:
+- Animal Sound Example (Polymorphism),
+Bank Account with private balance (Encapsulation)
+
+#### 📁 Code Location:
+[ Day_18 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_18.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
