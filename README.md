@@ -221,6 +221,25 @@ Bank Account with private balance (Encapsulation)
 [ Day_18 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_18.ipynb)
 
 ----
+### 🎯 OOP in Python (Part 4) – Abstraction & OOP Recap
+- Abstraction: Hiding implementation details using `abc` module
+- Abstract Base Classes & Abstract Methods
+- Recap of:
+  - Classes & Objects
+  - Attributes & Methods
+  - Constructors (`__init__`)
+  - Inheritance & `super()`
+  - Polymorphism
+  - Encapsulation
+- Importance of OOP in real-world projects
+
+- 🌟 Mini Project:
+  - Bank Management System (Savings Account, Loan Account, Deposit & Withdraw)
+
+#### 📂 Code Location:
+[Day_19](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_19.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
