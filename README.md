@@ -240,7 +240,28 @@ Bank Account with private balance (Encapsulation)
 [Day_19](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_19.ipynb)
 
 ----
+### 🐍 Virtual Environments & pip
+- What is a Virtual Environment and why we use it
+- Creating virtual environments using:
+  - `venv`
+  - `virtualenv`
+- Activating & deactivating virtual environments
+- Installing packages using `pip`
+- Checking installed packages: `pip list`
+- Exporting dependencies: `pip freeze > requirements.txt`
+- Installing from requirements file: `pip install -r requirements.txt`
+- Upgrading and uninstalling packages
+- Managing multiple projects with isolated environments
 
+- 🌟 Mini Practice:
+  - Create a virtual environment
+  - Install Flask & Requests
+  - Export and reinstall dependencies
+
+#### 📂 Code Location:
+[Day_20](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_20.ipynb)
+
+---
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
