@@ -261,7 +261,27 @@ Bank Account with private balance (Encapsulation)
 #### 📂 Code Location:
 [Day_20](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_20.ipynb)
 
+[Day_20  Explaination ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_20.md)
+
 ---
+
+### 🎯 Day 21 – Debugging & Logging
+- **Logging**: Track program flow, save logs to file
+- Log Levels: DEBUG, INFO, WARNING, ERROR, CRITICAL
+- **pdb** (Python Debugger):
+  - Pause code execution
+  - Inspect and modify variables
+  - Step through code line-by-line
+
+- 🌟 Mini Project:
+  - Divide Function with logging & debugger breakpoints
+  - Handles ZeroDivisionError with error logs
+
+#### 📂 Code Location:
+[Day_21](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_21.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
