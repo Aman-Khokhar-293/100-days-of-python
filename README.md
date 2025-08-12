@@ -281,6 +281,21 @@ Bank Account with private balance (Encapsulation)
 [Day_21](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_21.ipynb)
 
 ----
+### 🎯 Day 22 – Unit Testing (unittest Basics)
+- **unittest**: Python’s built-in framework for automated testing  
+- Writing test cases with `unittest.TestCase`  
+- Common assertions: `assertEqual`, `assertTrue`, `assertFalse`, `assertRaises`  
+- Running tests using `unittest.main()`  
+- Organizing tests into test suites
+
+- 🌟 **Mini Project**:  
+  - Calculator functions with multiple unit tests  
+  - Handling division by zero in tests  
+
+#### 📂 **Code Location:**  
+[Day_22](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_22.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
