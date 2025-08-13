@@ -281,6 +281,7 @@ Bank Account with private balance (Encapsulation)
 [Day_21](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_21.ipynb)
 
 ----
+
 ### 🎯 Day 22 – Unit Testing (unittest Basics)
 - **unittest**: Python’s built-in framework for automated testing  
 - Writing test cases with `unittest.TestCase`  
@@ -296,6 +297,25 @@ Bank Account with private balance (Encapsulation)
 [Day_22](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_22.ipynb)
 
 ----
+
+### 🎯 Day 23 – Python Coding Standards (PEP 8)
+
+- **PEP 8**: Python's official style guide for writing clean and readable code
+- Writing code with consistent **indentation**, **naming conventions**, and **line length**
+- Best practices for **imports** and **whitespace usage**
+- Guidelines for **function & variable naming**
+- Proper use of **comments** and **docstrings**
+- Organizing code for better readability and maintainability
+
+- 🌟 **Mini Project**:
+  - Refactoring messy Python code to follow PEP 8 standards
+  - Adding docstrings and comments for better clarity
+
+#### 📂 **Code Location:**
+[Day_23](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_23.ipynb)
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
