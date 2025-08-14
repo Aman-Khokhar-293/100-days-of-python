@@ -316,6 +316,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 24 – Python Iterators & Generators
+
+- **Iterators**: Objects that implement the iterator protocol (`__iter__()` and `__next__()`).
+- Creating custom iterators using classes.
+- **Generators**: Functions that use `yield` to produce a sequence of values lazily.
+- Advantages of generators: memory efficiency, lazy evaluation.
+- Using generator expressions for concise iteration.
+- Converting iterables to iterators with `iter()` and getting values with `next()`.
+
+- 🌟 **Mini Project**:
+  - Custom iterator to generate a sequence of even numbers.
+  - Generator to yield Fibonacci series up to `n` terms.
+
+#### 📂 **Code Location:**
+[Day_24](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_24.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
