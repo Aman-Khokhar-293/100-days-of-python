@@ -334,6 +334,24 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 25 – Python Decorators
+
+- **Decorators**: Special functions that modify another function's behavior without changing its code
+- Syntax: `@decorator_name`
+- Common uses: Logging, authentication, timing, caching
+- Custom decorators using nested functions
+- Multiple decorators on a single function
+- `functools.wraps` to keep original function info
+- 🌟 **Mini Project**:
+  - `logger` decorator → prints function name & execution time
+  - `auth_required` decorator → simulates authentication
+  - `repeat` decorator → runs function multiple times
+
+#### 📂 **Code Location:**
+[Day_25](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_25.ipynb)
+
+---
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
