@@ -352,6 +352,20 @@ Bank Account with private balance (Encapsulation)
 
 ---
 
+### 🎯 Day 26 – Closures & Nested Functions
+
+- **Nested Functions**: Functions defined inside another function  
+- **Closures**: Inner function remembers variables from outer function even after outer function ends  
+- Use cases: Data hiding, decorators, function factories  
+- 🌟 **Mini Project**:
+  - Create a closure that generates custom multipliers  
+  - Nested function for greeting messages  
+
+#### 📂 **Code Location:**
+[Day_26](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_26.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
