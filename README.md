@@ -366,6 +366,27 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 27 – Python Regex (Basics to Advanced)
+
+- **Regex (Regular Expressions)**: Used to search, match & manipulate strings
+- `re` module functions:
+  - `re.match()` → checks match at start
+  - `re.search()` → finds first match
+  - `re.findall()` → returns all matches
+  - `re.sub()` → replaces text
+- Meta characters: `. ^ $ * + ? {} [] | ()`
+- Raw strings in Python: `r"pattern"`
+- Advanced patterns: groups, alternation, lookahead/lookbehind
+- 🌟 **Mini Project**:
+  - Validate email & phone number with regex  
+  - Extract all hashtags from a text  
+  - Replace unwanted words with `***`
+    
+#### 📂 **Code Location:**
+[Day_27](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_27.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
