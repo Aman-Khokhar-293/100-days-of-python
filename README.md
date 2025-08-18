@@ -387,6 +387,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🌐 Day 28 – Web Scraping with BeautifulSoup
+
+- **BeautifulSoup**: Python library for parsing HTML and XML documents
+- Parsing HTML content and navigating the DOM tree
+- Extracting elements using tags, classes, and IDs
+- Using methods like `find()`, `find_all()`, `select()`
+- Cleaning and formatting extracted data
+- Combining BeautifulSoup with `requests` for real-world scraping
+- 🌟 **Mini Project**:
+  - Scraping quotes from a website
+  - Extracting authors and tags
+
+#### 📂 **Code Location:**
+[Day_28](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_28.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
