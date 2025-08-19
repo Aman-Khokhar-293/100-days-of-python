@@ -404,6 +404,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🌐 Day 29 – Web Scraping with requests and pandas
+
+- **requests**: Python library for making HTTP requests  
+- Fetching HTML content from a webpage  
+- Parsing data with **pandas** (using `read_html`)  
+- Extracting tables directly into DataFrames  
+- Cleaning and analyzing scraped tabular data  
+- Exporting data to CSV/Excel for further use  
+- 🌟 **Mini Project**:
+  - Scraping a table from a live website  
+  - Saving the scraped table as a CSV file  
+
+#### 📂 **Code Location:**
+[Day_29](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_29.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
