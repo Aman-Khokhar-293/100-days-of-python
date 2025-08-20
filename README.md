@@ -421,16 +421,18 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
-### 🌦️ Day 30 – Weather Forecast Dashboard
+### ⛅ Day 30 – Weather Forecast Dashboard  
 
-- Scraping 7-day weather forecast of multiple cities  
-- Using **requests + pandas + BeautifulSoup**  
-- Storing data in DataFrame for easy analysis  
-- Creating **line chart** for temperature trends  
-- Exporting forecast to CSV  
+- **API Integration**: Fetch live weather data using OpenWeatherMap API  
+- **requests**: Send HTTP requests & parse JSON responses  
+- **Error Handling**: Manage invalid city names with error messages  
+- **Weather Details**:  
+  - 🌡️ Temperature  
+  - ☁️ Condition  
+  - 💧 Humidity  
+  - 💨 Wind Speed  
 - 🌟 **Mini Project**:  
-  - Weather Dashboard for 3 Indian cities (Delhi, Mumbai, Ahmedabad)  
-  - Visualize temperature trend for the next 7 days  
+  - Weather Forecast Program – Enter a city name & get real-time weather updates 
 
 #### 📂 **Code Location:**  
 [Day_30](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_30.ipynb)
