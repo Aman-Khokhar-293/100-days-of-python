@@ -421,6 +421,22 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🌦️ Day 30 – Weather Forecast Dashboard
+
+- Scraping 7-day weather forecast of multiple cities  
+- Using **requests + pandas + BeautifulSoup**  
+- Storing data in DataFrame for easy analysis  
+- Creating **line chart** for temperature trends  
+- Exporting forecast to CSV  
+- 🌟 **Mini Project**:  
+  - Weather Dashboard for 3 Indian cities (Delhi, Mumbai, Ahmedabad)  
+  - Visualize temperature trend for the next 7 days  
+
+#### 📂 **Code Location:**  
+[Day_30](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_30.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
