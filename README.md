@@ -439,6 +439,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 31 – Introduction to APIs (JSON & requests)
+
+- **API (Application Programming Interface):** A way for programs to communicate with each other.
+- **JSON (JavaScript Object Notation):** Lightweight format for data exchange, commonly used in APIs.
+- **requests library:** Python module to send HTTP requests and receive responses.
+- **Common methods:** `GET`, `POST`
+- **Parsing JSON responses** using `.json()`
+- **Error handling** with `status_code`
+- 🌟 **Mini Project**:
+  - Pokémon Info Fetcher (Pokémon API)
+  - Random Cat Fact Generator (Cat Facts API)
+
+#### 📂 **Code Location:**
+[Day_31](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_31.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
