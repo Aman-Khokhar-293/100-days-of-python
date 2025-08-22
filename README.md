@@ -456,6 +456,25 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 32 – Consume Open APIs (Weather, News)
+
+- **Open APIs**: Publicly available APIs that can be used without special authentication or with free API keys.
+- **Weather API (OpenWeather)**:
+  - Fetching real-time weather data using city name
+  - Parsing JSON response for temperature, humidity, and conditions
+- **News API**:
+  - Fetching latest headlines
+  - Extracting article title, source, and URL
+- **Error Handling**: Managing failed requests or invalid inputs
+- 🌟 **Mini Projects**:
+  - Simple Weather App using OpenWeather API
+  - News Headlines Fetcher using NewsAPI
+
+#### 📂 **Code Location:**
+[Day_32](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_32.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
