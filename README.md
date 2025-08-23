@@ -474,6 +474,21 @@ Bank Account with private balance (Encapsulation)
 [Day_32](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_32.ipynb)
 
 ----
+### 🎯 Day 33 – Mini Project: API-based App (Crypto Price Tracker)
+
+- Building a small API-based app using Python `requests`.
+- Consuming **CoinGecko API** (free & open API).
+- User enters cryptocurrency name (like `bitcoin`, `ethereum`).
+- Fetching **real-time price data** in USD.
+- Displaying clean formatted results.
+- Error handling for invalid crypto names.
+- 🌟 **Mini Project**:
+  - Crypto Price Tracker App
+
+#### 📂 **Code Location:**
+[Day_33](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_33.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
