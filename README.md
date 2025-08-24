@@ -489,6 +489,30 @@ Bank Account with private balance (Encapsulation)
 [Day_33](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_33.ipynb)
 
 ----
+### 🎯 Day 34 – Intro to Databases: SQLite with Python
+
+- **SQLite**: Lightweight, serverless database that comes pre-installed with Python.
+- **sqlite3 module**: Python’s built-in library to interact with SQLite.
+- **Steps in Database Programming**:
+  - Connect to database (`sqlite3.connect`)
+  - Create cursor object
+  - Execute SQL commands (CREATE, INSERT, SELECT)
+  - Commit changes & close connection
+- **SQL Basics**:
+  - `CREATE TABLE` → make a new table
+  - `INSERT INTO` → add data
+  - `SELECT` → retrieve data
+  - `WHERE` → filter results
+- 🌟 **Mini Project**:
+  - Student Database System:
+    - Create table for students
+    - Insert student records
+    - Retrieve & display records
+
+#### 📂 **Code Location:**
+[Day_34](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_34.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
