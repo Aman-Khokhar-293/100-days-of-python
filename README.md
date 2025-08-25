@@ -513,6 +513,29 @@ Bank Account with private balance (Encapsulation)
 [Day_34](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_34.ipynb)
 
 ----
+### 🎯 Day 35 – CRUD with SQLite
+
+- **CRUD Operations**: Fundamental database operations
+  - **C → Create** (INSERT new data)
+  - **R → Read** (SELECT and view data)
+  - **U → Update** (modify existing data)
+  - **D → Delete** (remove data)
+- **sqlite3 module** in Python helps us perform all CRUD operations.
+- Best Practices:
+  - Always use **parameterized queries** (`?`) to prevent SQL injection.
+  - Commit changes after Insert/Update/Delete.
+  - Close connection after work is done.
+- 🌟 **Mini Project**:
+  - Student Database with CRUD:
+    - Add new student
+    - View all students
+    - Update student grade
+    - Delete student record
+
+#### 📂 **Code Location:**
+[Day_35](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_35.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
