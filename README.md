@@ -537,6 +537,28 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+## 🎯 Day 36 – Use MySQL or PostgreSQL with Python
+
+- Moving from SQLite (lightweight, local) → MySQL/PostgreSQL (production-level).
+- Python connectors:
+  - **mysql-connector-python** for MySQL
+  - **psycopg2** for PostgreSQL
+- Steps:
+  1. Install connector (`pip install mysql-connector-python` or `pip install psycopg2`)
+  2. Connect to DB using host, user, password, database
+  3. Create cursor and run SQL commands
+  4. Perform CRUD (Create, Read, Update, Delete)
+  5. Close connection
+- 🌟 **Mini Project**:
+    - Create table
+    - Insert employee data
+    - Fetch and display data
+
+#### 📂 **Code Location:**
+[Day_36](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_36.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
