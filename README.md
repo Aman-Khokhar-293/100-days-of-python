@@ -559,6 +559,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 📊 Day 37 – Pandas: Series & DataFrame  
+
+- Introduction to **Pandas** library (powerful Python tool for data analysis).  
+- Learned about **Series** (1D labeled array).  
+- Worked with **DataFrame** (2D labeled data structure like a table).  
+- Creating Series and DataFrames from lists, dictionaries, and NumPy arrays.  
+- Performing basic operations: indexing, selection, filtering.  
+- Applying functions on data for quick analysis.  
+🌟 **Mini Project**:  
+- Creating a small **student marks dataset** using Pandas DataFrame.  
+- Performing operations like fetching columns, filtering rows, and summary statistics.  
+
+#### 📂 **Code Location:**  
+[Day_37](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_37.ipynb)  
+
+---
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
