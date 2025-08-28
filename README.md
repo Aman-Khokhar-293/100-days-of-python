@@ -574,7 +574,26 @@ Bank Account with private balance (Encapsulation)
 #### 📂 **Code Location:**  
 [Day_37](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_37.ipynb)  
 
----
+----
+
+### 🧹 Day 38 – Pandas: Data Cleaning  
+
+- Introduction to **data cleaning** using Pandas.  
+- Handling **missing data** (`NaN`) with `dropna()`, `fillna()`.  
+- Replacing values using `replace()`.  
+- Removing duplicates with `drop_duplicates()`.  
+- Converting data types with `astype()`.  
+- Renaming columns for clarity.  
+- String operations (`str.strip()`, `str.lower()`, etc.).  
+- 📝 **Mini Project**:  
+  - Clean messy student dataset (handle NaN, duplicates, inconsistent strings).  
+
+#### 📂 **Code Location:**  
+[Day_38](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_38.ipynb)<br>
+[messy_students.csv](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/messy_students.csv)
+
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
