@@ -594,6 +594,20 @@ Bank Account with private balance (Encapsulation)
 
 
 ----
+## 🎯 Day 39 – Pandas: GroupBy, Merge & Joins  
+
+- Learned how to use **GroupBy** for aggregation and multi-level grouping.  
+- Explored **merge()** with inner, outer, left, right joins.  
+- Practiced **join()** for index-based merging.  
+- 📝 **Mini Projects:**
+  - Sales grouped by region/product.  
+  - Students dataset merged with attendance.  
+  - Bank dataset joined with customer info.  
+
+#### 📂  **Code Location:**  
+[Day_39](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_39.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
