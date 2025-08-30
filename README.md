@@ -609,6 +609,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 40 – NumPy: Arrays & Operations  
+
+- Learned how to create arrays → `array`, `arange`, `linspace`, `zeros`, `ones`, `eye`.  
+- Understood difference between **Python lists & NumPy arrays**.  
+- Practiced element-wise operations & broadcasting.  
+- Explored aggregate functions (`sum`, `mean`, `std`, `argmax`, `argmin`).  
+- Used mathematical functions (`sqrt`, `exp`, `log`, `sin`, `cos`).  
+🌟 **Mini Projects**:  
+- Student marks dataset analysis (mean, std, max, min).  
+- Matrix operations (transpose, element-wise & dot product).  
+- Dice roll simulation with random arrays.  
+
+#### 📂 **Code Location:**  
+[Day_40](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_40.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
