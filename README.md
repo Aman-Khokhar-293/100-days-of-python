@@ -626,6 +626,29 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 41 – NumPy: Slicing, Broadcasting, Stats  
+
+- Practiced **array slicing**:  
+  - 1D slicing → `arr[2:5]`, `arr[::-1]`  
+  - 2D slicing → `arr[0:2, 1:3]`  
+  - Step slicing & negative indexing  
+- Learned **Broadcasting**:  
+  - Applying scalar to array  
+  - Adding arrays of different shapes (compatible dimensions)  
+  - Real-world use: scaling data, normalizing arrays  
+- Explored **Statistical Functions**:  
+  - `mean()`, `median()`, `std()`, `var()`, `percentile()`  
+  - `min()`, `max()`, `argmin()`, `argmax()`  
+🌟 **Mini Projects**:  
+- Slice marks dataset (top students, bottom students).  
+- Normalize 2D data using broadcasting.  
+- Statistical analysis of random dataset (mean, std, percentiles).  
+
+#### 📂 **Code Location:**  
+[Day_41](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_41.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
