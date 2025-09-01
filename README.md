@@ -167,6 +167,7 @@ Each day I’ll share small projects, examples, and code
 [ Day_14 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_14.ipynb)
 
 ----
+
 ### 📅 Day 15 – Math & Random Modules
 - Math Module,
     Functions covered: sqrt(), pow(), ceil(), floor(), fabs(), factorial(), log(), sin(), cos(), constants like pi, etc.
@@ -177,6 +178,7 @@ Each day I’ll share small projects, examples, and code
 [ Day_15 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_15.ipynb)
 
 ---- 
+
 ### 📅 Day 16 – Object-Oriented Programming (OOP)
 - Introduction to Classes and Objects
 - Understanding Attributes (instance variables)
@@ -192,6 +194,7 @@ Bank Account Class
 [ Day_16 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_16.ipynb)
 
 ----
+
 ### 📅 Day 17 – OOP in Python (Part 2)
 - __init__() Constructor (default and parameterized)
 - Single Inheritance
@@ -207,6 +210,7 @@ Bank Account Class
 
 ----
 
+
 ### 📅  OOP in Python (Part 3)
 - Polymorphism: Same method, different behavior
 - Duck Typing in Python
@@ -221,7 +225,8 @@ Bank Account with private balance (Encapsulation)
 [ Day_18 ](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_18.ipynb)
 
 ----
-### 🎯 OOP in Python (Part 4) – Abstraction & OOP Recap
+
+###  🎯 Day 19 OOP in Python (Part 4) – Abstraction & OOP Recap
 - Abstraction: Hiding implementation details using `abc` module
 - Abstract Base Classes & Abstract Methods
 - Recap of:
@@ -240,7 +245,8 @@ Bank Account with private balance (Encapsulation)
 [Day_19](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_19.ipynb)
 
 ----
-### 🐍 Virtual Environments & pip
+
+### 🐍 Day 20 Virtual Environments & pip
 - What is a Virtual Environment and why we use it
 - Creating virtual environments using:
   - `venv`
