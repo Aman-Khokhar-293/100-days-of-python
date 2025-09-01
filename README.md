@@ -649,6 +649,18 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 42 – Matplotlib: Basics & Core Plots  
+
+* Introduction to **Matplotlib** for data visualization 📊  
+* Creating **basic plots**: line, bar, scatter, histogram  
+* Customizing plots with labels, titles, legends & colors  
+* Mini Project: Simple data visualization with multiple plots  
+
+#### **📂 Code Location:**
+[Day_42](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_42.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
