@@ -211,7 +211,7 @@ Bank Account Class
 ----
 
 
-### 📅  OOP in Python (Part 3)
+### 📅 Day 18 OOP in Python (Part 3)
 - Polymorphism: Same method, different behavior
 - Duck Typing in Python
 - Encapsulation: Hiding data using private/protected attributes
