@@ -667,6 +667,18 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 43 – Matplotlib: Styling & Advanced Plots  
+
+* Customizing **plot styles** (colors, markers, line styles, grids) 🖌️  
+* Using **style sheets** for professional visuals  
+* Advanced plots: **Stacked Bar, Pie Chart, Box Plot, Area Plot**  
+* Mini Project: Comparative data visualization with advanced plots  
+
+#### 📂 **Code Location : **
+[Day_43](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_43.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
