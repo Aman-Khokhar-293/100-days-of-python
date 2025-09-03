@@ -674,8 +674,21 @@ Bank Account with private balance (Encapsulation)
 * Advanced plots: **Stacked Bar, Pie Chart, Box Plot, Area Plot**  
 * Mini Project: Comparative data visualization with advanced plots  
 
-#### 📂 **Code Location : **
+#### **📂 Code Location:**
 [Day_43](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_43.ipynb)
+
+----
+
+### 🎯 Day 44 – Seaborn: Basics & Statistical Plots  
+
+- Introduction to **Seaborn** for high-level data visualization 📊  
+- Styling & color palettes for better visuals 🎨  
+- Basic plots: barplot, countplot, scatterplot  
+- Statistical plots: boxplot, violinplot, pairplot  
+- Mini Project: Visualizing student performance dataset with Seaborn  
+
+#### **📂 Code Location:**
+[Day_44](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_44.ipynb)
 
 ----
 
