@@ -692,6 +692,19 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 45 – Seaborn: Beautiful Visualizations  
+
+- Exploring Seaborn’s powerful themes & color palettes 🎨  
+- Creating visually appealing plots with minimal code  
+- Heatmaps for correlation & data insights 🔥  
+- Distribution plots (distplot / histplot / kdeplot)  
+- Mini Project: Beautiful visualization of student performance dataset  
+
+#### **📂 Code Location:**
+[Day_45](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_45.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
