@@ -705,6 +705,18 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 46 – Seaborn: Advanced Plots & Customization  
+
+- Advanced plots: swarmplot, jointplot, lmplot, clustermap  
+- Customizing Seaborn plots with styles & themes 🎨  
+- Adding annotations, titles & fine-tuning layouts  
+- Mini Project: Advanced visualization of flight/passenger dataset  
+
+#### **📂 Code Location:**
+[Day_46](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_46.ipynb)
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
