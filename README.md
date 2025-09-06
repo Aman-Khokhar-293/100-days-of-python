@@ -717,6 +717,19 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 47 – Mini Data Analysis Project  
+
+- Applied **Pandas** for data cleaning & transformation 🧹  
+- Used **Seaborn & Matplotlib** for visualization 📊  
+- Performed **exploratory data analysis (EDA)** on real dataset  
+- Found insights from dataset (trends, patterns, relationships)  
+- Mini Project: Analyzing Titanic Dataset (survival analysis)  
+
+#### **📂 Code Location:**
+[Day_47](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_47.ipynb)
+
+---- 
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
