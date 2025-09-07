@@ -730,6 +730,21 @@ Bank Account with private balance (Encapsulation)
 
 ---- 
 
+### 🎯 Day 48 – Introduction to Scikit-learn: Fitting Your First Model  
+
+- Basics of **Scikit-learn** library  
+- Loading sample datasets (`Iris`, `Digits`)  
+- Train/test split for ML workflow  
+- Fitting first model (Logistic Regression)  
+- Predictions & accuracy check  
+🌟 **Mini Project**:  
+- Simple ML model with Scikit-learn  
+
+#### 📂 **Code Location:**  
+[Day_48](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_48.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
