@@ -745,6 +745,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 49 – Linear Regression: Predicting Continuous Values  
+
+- Introduction to **Linear Regression**  
+- Difference between regression & classification  
+- Training model on simple dataset (hours vs marks)  
+- Predicting continuous values (e.g., marks for given study hours)  
+- Evaluating predictions  
+🌟 **Mini Project**:  
+- Predict marks based on study hours using Linear Regression  
+
+#### 📂 **Code Location:**  
+[Day_49](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_49.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
