@@ -760,6 +760,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 50 – Logistic Regression: Understanding Classification  
+
+- Introduction to **Logistic Regression**  
+- Difference between regression & classification  
+- Training Logistic Regression on classification dataset  
+- Making predictions on new data  
+- Evaluating performance (accuracy score)  
+🌟 **Mini Project**:  
+- Classify Iris flowers using Logistic Regression  
+
+#### 📂 **Code Location:**  
+[Day_50](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_50.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
