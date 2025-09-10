@@ -775,6 +775,20 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 51 – Data Preprocessing: Taming Missing Values with SimpleImputer  
+
+- Importance of **data preprocessing** in ML workflow  
+- Handling missing values in datasets  
+- Introduction to `SimpleImputer` from Scikit-learn  
+- Strategies: `mean`, `median`, `most_frequent`, `constant`  
+- Replacing NaN values for clean dataset  
+🌟 **Mini Project**:  
+- Clean a dataset with missing values using `SimpleImputer`  
+
+#### 📂 **Code Location:**  
+[Day_51](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_51.ipynb)  
+
+----
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
