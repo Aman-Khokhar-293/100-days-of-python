@@ -789,6 +789,22 @@ Bank Account with private balance (Encapsulation)
 [Day_51](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_51.ipynb)  
 
 ----
+
+### 🎯 Day 52 – Data Preprocessing: Encoding Categorical Variables  
+
+- Importance of encoding categorical data for ML models  
+- Introduction to **Label Encoding**  
+- Introduction to **One-Hot Encoding**  
+- When to use Label vs One-Hot Encoding  
+- Handling categorical features with Scikit-learn  
+🌟 **Mini Project**:  
+- Encode categorical columns of a sample dataset  
+
+#### 📂 **Code Location:**  
+[Day_52](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_52.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
