@@ -805,6 +805,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 53 – Data Preprocessing: Why Feature Scaling is Essential  
+
+- Why feature scaling is important in ML  
+- Problems caused by unscaled features  
+- Introduction to **Normalization (Min-Max Scaling)**  
+- Introduction to **Standardization (Z-score Scaling)**  
+- Using `StandardScaler` & `MinMaxScaler` from Scikit-learn  
+🌟 **Mini Project**:  
+- Scale features of a dataset and compare before vs after  
+
+#### 📂 **Code Location:**  
+[Day_53](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_53.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
