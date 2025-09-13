@@ -820,6 +820,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 54 – Avoiding Overfitting: Introduction to Cross-Validation  
+
+- What is **overfitting** in ML  
+- Why single train/test split is not enough  
+- Introduction to **Cross-Validation (CV)**  
+- K-Fold Cross-Validation explained  
+- Using `cross_val_score` in Scikit-learn  
+🌟 **Mini Project**:  
+- Evaluate Logistic Regression with K-Fold Cross-Validation  
+
+#### 📂 **Code Location:**  
+[Day_54](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_54.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
