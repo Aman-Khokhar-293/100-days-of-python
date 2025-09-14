@@ -834,6 +834,20 @@ Bank Account with private balance (Encapsulation)
 [Day_54](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_54.ipynb)  
 
 ----
+### 🎯 Day 55 – K-Nearest Neighbors (KNN): A Simple Yet Powerful Algorithm  
+
+- Introduction to **K-Nearest Neighbors (KNN)** algorithm  
+- Understanding distance metrics (Euclidean distance)  
+- Effect of choosing different values of **k**  
+- Training & testing KNN classifier with Scikit-learn  
+- Visualizing decision boundaries  
+🌟 **Mini Project**:  
+- Classify Iris dataset using KNN  
+
+#### 📂 **Code Location:**  
+[Day_55](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_55.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
