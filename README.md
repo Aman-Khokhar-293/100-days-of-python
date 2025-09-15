@@ -849,6 +849,23 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 56 – KNN Classification  
+
+- Applied **K-Nearest Neighbors (KNN)** for classification tasks  
+- Worked on **Iris dataset** for multi-class classification  
+- Explored impact of different values of **k** on accuracy  
+- Compared model performance with different distance metrics  
+- Visualized classification results  
+
+🌟 **Mini Project**:  
+- Build a KNN Classifier to predict flower species (Iris dataset)  
+
+#### 📂 **Code Location:**  
+[Day_56](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_56.ipynb)
+
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
