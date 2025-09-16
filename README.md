@@ -865,6 +865,22 @@ Bank Account with private balance (Encapsulation)
 
 
 ----
+### 🎯 Day 57 – KNN Classification (Breast Cancer Dataset)  
+
+- Applied **K-Nearest Neighbors (KNN)** on a real-world dataset  
+- Used the **Breast Cancer dataset** from Scikit-learn  
+- Performed **feature scaling** for better distance calculation  
+- Trained & tested KNN classifier with different values of **k**  
+- Evaluated performance using **accuracy, confusion matrix, and classification report**  
+- Visualized results with a heatmap  
+🌟 **Mini Project**:  
+- Predict whether a tumor is **benign or malignant** using KNN  
+
+#### 📂 **Code Location:**  
+[Day_57](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_57.ipynb)
+
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
