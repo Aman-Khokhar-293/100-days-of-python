@@ -881,6 +881,20 @@ Bank Account with private balance (Encapsulation)
 
 
 ----
+### 🎯 Day 58 – KNN Regression  
+
+- Explored **K-Nearest Neighbors (KNN) for Regression**  
+- Learned how KNN can predict **continuous values** instead of classes  
+- Compared results with different **k values**  
+- Visualized predictions vs actual values  
+- Evaluated model using metrics like **MSE and R² Score**  
+🌟 **Mini Project**:  
+- Predict house prices using **KNN Regressor** on the Boston Housing dataset 🏠  
+
+#### 📂 **Code Location:**  
+[Day_58](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_58.ipynb)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
