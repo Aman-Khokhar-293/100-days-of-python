@@ -896,6 +896,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 59 – KNN Hyperparameter Tuning  
+
+- Why **hyperparameter tuning** is important in ML  
+- Effect of `k` (neighbors) on bias-variance tradeoff  
+- Using **GridSearchCV** for KNN optimization  
+- Parameters tuned: `n_neighbors`, `weights`, `metric`  
+- Evaluated model accuracy with best parameters  
+🌟 **Mini Project**:  
+- Optimized KNN Classifier with GridSearchCV  
+
+#### 📂 **Code Location:**  
+[Day_59](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_59.ipynb)  
+
+----
+
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
