@@ -910,6 +910,21 @@ Bank Account with private balance (Encapsulation)
 [Day_59](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_59.ipynb)  
 
 ----
+### 🎯 Day 60 – Decision Tree Concept  
+
+- Introduction to **Decision Trees** in ML  
+- Understanding **tree structure** (root, nodes, leaves)  
+- Concepts of **Gini Impurity** & **Entropy**  
+- How Decision Trees split data using features  
+- Advantages and limitations of Decision Trees  
+🌟 **Mini Project**:  
+- Build a simple Decision Tree Classifier on a dataset  
+
+#### 📂 **Code Location:**  
+[Day_60](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_60.ipynb)  
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
