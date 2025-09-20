@@ -925,6 +925,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 61 – Decision Tree Implementation  
+
+- Implemented **Decision Tree Classifier** using scikit-learn  
+- Compared **Gini Index vs Entropy** as splitting criteria  
+- Trained and tested model on dataset  
+- Visualized the tree structure with `plot_tree()`  
+- Evaluated model performance using accuracy score  
+🌟 **Mini Project**:  
+- Full Decision Tree Implementation on Iris Dataset  
+
+#### 📂 **Code Location:**  
+[Day_61](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_61.ipynb)  
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
