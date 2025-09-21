@@ -940,6 +940,20 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 62 – Decision Tree (Advanced Usage)  
+
+- Explored **feature importance** in Decision Trees  
+- Visualized **decision boundaries** for better understanding  
+- Made predictions on unseen data  
+- Compared training vs test performance to check overfitting  
+🌟 **Mini Project**:  
+- Decision Tree with feature importance & predictions on new samples  
+
+#### 📂 **Code Location:**  
+[Day_62](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_62.ipynb)  
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
