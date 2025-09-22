@@ -954,6 +954,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 63 – Random Forest Concept  
+
+- Introduction to **Random Forest Algorithm** 🌲🌲  
+- How Random Forest combines multiple Decision Trees  
+- Concept of **Bagging & Feature Randomness**  
+- Advantages over a single Decision Tree (less overfitting)  
+- Basic implementation with scikit-learn  
+🌟 **Mini Project**:  
+- Random Forest Classifier on Breast Cancer dataset  
+
+#### 📂 **Code Location:**  
+[Day_63](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_63.ipynb)  
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
