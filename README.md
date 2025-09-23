@@ -969,6 +969,21 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 64 – Random Forest (Iris Dataset)  
+
+- Implemented **Random Forest Classifier** on Iris dataset  
+- Compared Random Forest with a single Decision Tree  
+- Learned about **n_estimators** and its effect  
+- Checked model accuracy and feature importance  
+- Visualized decision-making process  
+🌟 **Mini Project**:  
+- Random Forest Classifier on Iris dataset  
+
+#### 📂 **Code Location:**  
+[Day_64](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_64.ipynb)  
+
+----
+
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech (AI) @ Ganpat University  
