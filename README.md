@@ -983,6 +983,22 @@ Bank Account with private balance (Encapsulation)
 [Day_64](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_64.ipynb)  
 
 ----
+### 🌳 Day 65 – Random Forest Hyperparameter Tuning
+
+- Introduction to **Random Forest** in ML  
+- Why hyperparameter tuning is important  
+- Key hyperparameters in Random Forest (n_estimators, max_depth, max_features, min_samples_split, etc.)  
+- Using **GridSearchCV** & **RandomizedSearchCV** in Scikit-learn  
+- Evaluating tuned Random Forest model  
+🌟 **Mini Project**:  
+- Tune Random Forest Classifier hyperparameters using GridSearchCV & RandomizedSearchCV  
+- Compare performance before & after tuning  
+
+#### 📂 **Code Location:**  
+[Day_65](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_65.ipynb)
+
+----
+
 
 
 ### 🙋‍♂️ Author
