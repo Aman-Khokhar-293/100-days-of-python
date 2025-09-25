@@ -998,6 +998,23 @@ Bank Account with private balance (Encapsulation)
 [Day_65](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_65.ipynb)
 
 ----
+### 🤝 Day 66 – Ensemble Learning
+
+- What is **Ensemble Learning** in ML?  
+- Why combining multiple models improves performance  
+- Types of Ensemble Methods:
+  - **Bagging** (Bootstrap Aggregating)  
+  - **Boosting** (AdaBoost, Gradient Boosting, XGBoost)  
+  - **Voting Classifier** (Hard vs Soft Voting)  
+- Implementation in Scikit-learn  
+🌟 **Mini Project**:  
+- Train and compare Bagging, AdaBoost, and Voting Classifiers on a dataset  
+- Evaluate and visualize performance improvements  
+
+#### 📂 **Code Location:**  
+[Day_66](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_66.ipynb)
+
+----
 
 
 
