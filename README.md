@@ -1015,6 +1015,24 @@ Bank Account with private balance (Encapsulation)
 [Day_66](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_66.ipynb)
 
 ----
+### 🎯 Day 67 – Naive Bayes Classifier
+
+- Introduction to **Naive Bayes Algorithm** in ML  
+- Why it’s called *“Naive”* and its assumptions  
+- Types of Naive Bayes:
+  - Gaussian Naive Bayes  
+  - Multinomial Naive Bayes  
+  - Bernoulli Naive Bayes  
+- Strengths & Weaknesses of Naive Bayes  
+- Implementation in Scikit-learn  
+🌟 **Mini Project**:  
+- Train a Naive Bayes Classifier on a dataset  
+- Compare performance with Gaussian, Multinomial, and Bernoulli variants  
+
+#### 📂 **Code Location:**  
+[Day_67](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_67.ipynb)
+
+----
 
 
 
