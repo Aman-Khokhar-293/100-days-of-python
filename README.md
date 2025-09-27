@@ -1033,6 +1033,24 @@ Bank Account with private balance (Encapsulation)
 [Day_67](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_67.ipynb)
 
 ----
+### 🌀 Day 68 – Introduction to Clustering
+
+- What is **Clustering** in Machine Learning?  
+- Difference between **Supervised vs Unsupervised Learning**  
+- Popular Clustering Algorithms:
+  - **K-Means Clustering**  
+  - **Hierarchical Clustering**  
+  - **DBSCAN (Density-Based Clustering)**  
+- Applications of Clustering (customer segmentation, anomaly detection, image compression, etc.)  
+🌟 **Mini Project**:  
+- Perform clustering on a dataset using **K-Means** and **DBSCAN**  
+- Visualize clusters in 2D  
+
+#### 📂 **Code Location:**  
+[Day_68](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_68.ipynb)
+
+----
+
 
 
 
