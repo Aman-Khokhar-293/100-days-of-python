@@ -1050,7 +1050,26 @@ Bank Account with private balance (Encapsulation)
 [Day_68](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_68.ipynb)
 
 ----
+### 📊 Day 69 – K-Means Clustering (Concept)
 
+- Introduction to **K-Means Algorithm**  
+- Steps in K-Means:
+  1. Choose number of clusters (K)  
+  2. Initialize centroids randomly  
+  3. Assign each point to nearest centroid  
+  4. Update centroids as mean of assigned points  
+  5. Repeat until convergence  
+- How to choose optimal K (Elbow Method, Silhouette Score)  
+- Limitations of K-Means (sensitivity to initialization, non-spherical clusters)  
+🌟 **Mini Project**:  
+- Apply K-Means clustering on a dataset  
+- Use **Elbow Method** to find best K  
+- Visualize the clusters and centroids  
+
+#### 📂 **Code Location:**  
+[Day_69](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_69.ipynb)
+
+----
 
 
 
