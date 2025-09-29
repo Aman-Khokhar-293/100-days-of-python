@@ -1071,6 +1071,24 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### ⚙️ Day 70 – K-Means Implementation
+
+- Hands-on implementation of **K-Means Clustering**  
+- Using **Scikit-learn’s KMeans** module  
+- Applying K-Means on real-world dataset (Iris dataset)  
+- Visualizing clusters in 2D  
+- Comparing predicted clusters vs actual labels  
+- Understanding cluster centroids  
+🌟 **Mini Project**:  
+- Apply K-Means on the Iris dataset  
+- Visualize clusters  
+- Evaluate clustering performance with Adjusted Rand Index  
+
+#### 📂 **Code Location:**  
+[Day_70](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_70.ipynb)
+
+----
+
 
 
 ### 🙋‍♂️ Author
