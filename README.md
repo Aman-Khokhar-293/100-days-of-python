@@ -1089,6 +1089,25 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+----
+### 🪜 Day 71 – Hierarchical Clustering (Concept)
+
+- Introduction to **Hierarchical Clustering**  
+- Difference from Partitioning methods like K-Means  
+- Two main approaches:
+  - **Agglomerative (bottom-up)**  
+  - **Divisive (top-down)**  
+- Concepts of **Dendrograms** & cluster merging  
+- Linkage criteria: single, complete, average, ward  
+🌟 **Mini Project**:  
+- Perform Agglomerative Hierarchical Clustering  
+- Plot a Dendrogram to visualize cluster formation  
+
+#### 📂 **Code Location:**  
+[Day_71](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_71.ipynb)
+
+----
+
 
 
 ### 🙋‍♂️ Author
