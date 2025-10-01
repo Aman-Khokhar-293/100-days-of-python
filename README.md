@@ -1107,7 +1107,24 @@ Bank Account with private balance (Encapsulation)
 [Day_71](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_71.ipynb)
 
 ----
+### 🪜 Day 72 – Agglomerative Clustering (Implementation)
 
+- Hands-on with **Agglomerative Hierarchical Clustering**  
+- How it works:
+  - Start with each point as its own cluster  
+  - Iteratively merge the closest clusters  
+  - Stop when the desired number of clusters is reached  
+- Linkage methods: single, complete, average, ward  
+- Comparing results with K-Means  
+🌟 **Mini Project**:  
+- Apply Agglomerative Clustering on the **Iris dataset**  
+- Visualize results in 2D  
+- Compare performance with K-Means  
+
+#### 📂 **Code Location:**  
+[Day_72](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_72.ipynb)
+
+----
 
 
 ### 🙋‍♂️ Author
