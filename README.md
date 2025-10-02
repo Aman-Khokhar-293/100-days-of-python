@@ -1125,8 +1125,32 @@ Bank Account with private balance (Encapsulation)
 [Day_72](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_72.ipynb)
 
 ----
+### 🌐 Day 73 – DBSCAN (Concept)
+
+- Introduction to **DBSCAN (Density-Based Clustering)**  
+- Core idea:
+  - Groups together points that are closely packed  
+  - Marks points in low-density regions as **outliers/noise**  
+- Key parameters:
+  - **eps** (radius of neighborhood)  
+  - **min_samples** (minimum points to form a dense region)  
+- Advantages:
+  - Finds clusters of arbitrary shape  
+  - Robust to noise and outliers  
+- Limitations:
+  - Sensitive to parameter choice  
+  - Struggles with varying densities  
+
+🌟 **Mini Project**:  
+- Perform DBSCAN clustering on synthetic datasets  
+- Compare results with K-Means and Hierarchical clustering  
+
+#### 📂 **Code Location:**  
+[Day_73](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_73.ipynb)
+
+----
 
 
 ### 🙋‍♂️ Author
-Aman Khokhar | B.Tech (AI) @ Ganpat University  
+Aman Khokhar | B.Tech Computer Engineering (Artificial Intelligence) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
