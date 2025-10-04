@@ -1168,6 +1168,31 @@ Bank Account with private balance (Encapsulation)
 [Day_74](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_74.ipynb)
 
 ----
+### 🧭 Day 75 – Dimensionality Reduction
+
+- Introduction to **Dimensionality Reduction** in Machine Learning  
+- Why we need it:
+  - Reduces computational cost  
+  - Removes noise & redundancy  
+  - Helps visualize high-dimensional data  
+- Common techniques:
+  - **PCA (Principal Component Analysis)**  
+  - **LDA (Linear Discriminant Analysis)**  
+  - **t-SNE (t-distributed Stochastic Neighbor Embedding)**  
+- Real-world use cases:
+  - Data visualization  
+  - Preprocessing for clustering/classification models  
+
+🌟 **Mini Project**:  
+- Apply **PCA** on the Iris dataset  
+- Visualize data in 2D and 3D  
+- Compare model performance before and after reduction  
+
+#### 📂 **Code Location:**  
+[Day_75](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_75.ipynb)
+
+----
+
 
 
 
