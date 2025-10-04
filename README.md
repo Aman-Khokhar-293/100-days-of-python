@@ -1149,6 +1149,26 @@ Bank Account with private balance (Encapsulation)
 [Day_73](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_73.ipynb)
 
 ----
+### 🌐 Day 74 – DBSCAN (Implementation)
+
+- Hands-on implementation of **DBSCAN** using Scikit-learn  
+- Applied DBSCAN on the **Iris dataset**  
+- Explored effects of parameters:
+  - **eps (ε)** – Neighborhood radius  
+  - **min_samples** – Minimum points to form a dense region  
+- Compared results with **K-Means** and **Agglomerative Clustering**  
+- Visualized clusters and noise points  
+
+🌟 **Mini Project**:  
+- Perform DBSCAN clustering on Iris dataset  
+- Tune parameters to get optimal clusters  
+- Visualize the results in 2D using PCA  
+
+#### 📂 **Code Location:**  
+[Day_74](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_74.ipynb)
+
+----
+
 
 
 ### 🙋‍♂️ Author
