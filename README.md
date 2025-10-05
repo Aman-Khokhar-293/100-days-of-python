@@ -1192,6 +1192,30 @@ Bank Account with private balance (Encapsulation)
 [Day_75](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_75.ipynb)
 
 ----
+### 🧮 Day 76 – PCA (Concept)
+
+- Introduction to **Principal Component Analysis (PCA)**  
+- PCA is a **Dimensionality Reduction** technique that:
+  - Reduces the number of features  
+  - Preserves maximum possible variance  
+  - Helps in visualization and noise reduction  
+- Core idea:
+  - Converts correlated features into a set of **linearly uncorrelated components**  
+  - These new axes are called **Principal Components**  
+- PCA works by:
+  1. Standardizing the data  
+  2. Calculating the covariance matrix  
+  3. Finding eigenvalues and eigenvectors  
+  4. Selecting top components that explain most variance  
+
+🌟 **Mini Project**:  
+- Visualize variance explained by each principal component on Iris dataset  
+
+#### 📂 **Code Location:**  
+[Day_76](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_76.ipynb)
+
+----
+
 
 
 
