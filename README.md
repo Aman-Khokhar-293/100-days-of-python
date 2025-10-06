@@ -1089,7 +1089,6 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
-----
 ### 🪜 Day 71 – Hierarchical Clustering (Concept)
 
 - Introduction to **Hierarchical Clustering**  
@@ -1215,11 +1214,29 @@ Bank Account with private balance (Encapsulation)
 [Day_76](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_76.ipynb)
 
 ----
+### 🧮 Day 77 – PCA (Implementation)
+
+- Practical implementation of **Principal Component Analysis (PCA)**  
+- Applied PCA on the **Iris dataset**  
+- Reduced 4D feature space to 2D & 3D for visualization  
+- Analyzed how much variance each component captures  
+- Compared model performance before & after PCA  
+
+🌟 **Mini Project**:  
+- Implement PCA using Scikit-learn  
+- Visualize data in 2D and 3D using Principal Components  
+- Observe clustering patterns between classes  
+
+#### 📂 **Code Location:**  
+[Day_77](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_77.ipynb)
+
+----
 
 
 
 
 
+-------
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech Computer Engineering (Artificial Intelligence) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
