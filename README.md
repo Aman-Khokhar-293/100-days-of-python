@@ -1232,6 +1232,29 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### ⚙️ Day 78 – Introduction to Scikit-learn Pipelines
+
+- Introduction to **Pipelines** in Scikit-learn  
+- Why use Pipelines?
+  - Combine preprocessing and model training steps  
+  - Avoid data leakage  
+  - Make code cleaner and more reproducible  
+- Pipeline Components:
+  - **Transformers** – for preprocessing (e.g., scaling, encoding)
+  - **Estimators** – for model fitting (e.g., Logistic Regression, RandomForest)
+- Tools:
+  - `Pipeline()` from `sklearn.pipeline`
+  - `ColumnTransformer()` for handling different feature types  
+
+🌟 **Mini Project**:  
+- Build a simple ML Pipeline for the Iris dataset  
+- Combine **StandardScaler** and **LogisticRegression** in one step  
+
+#### 📂 **Code Location:**  
+[Day_78](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_78.ipynb)
+
+----
+
 
 
 
