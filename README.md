@@ -1254,6 +1254,26 @@ Bank Account with private balance (Encapsulation)
 [Day_78](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_78.ipynb)
 
 ----
+### ⚡ Day 79 – Introduction to FastAPI
+
+- Introduction to **FastAPI** – a modern web framework for building APIs with Python  
+- Known for its:
+  - **Speed** (built on ASGI and Starlette)
+  - **Ease of use** with automatic docs (Swagger & ReDoc)
+  - **Type hints** integration for cleaner and safer code  
+- Compared to Flask/Django:
+  - Faster, async-ready, and supports automatic validation  
+
+🌟 **Mini Project**:  
+- Created a basic FastAPI application  
+- Defined GET and POST endpoints  
+- Tested API using **Swagger UI**  
+
+#### 📂 **Code Location:**  
+[Day_79](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_79.py)
+
+----
+
 
 
 
