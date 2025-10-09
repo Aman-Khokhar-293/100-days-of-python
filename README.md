@@ -1274,6 +1274,36 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 💥 Day 80 – API Development with FastAPI ⚡
+
+- What is an **API** and why it’s important  
+- Introduction to **FastAPI** – a modern web framework for building APIs with Python  
+- Setting up a FastAPI application  
+- Creating **GET** and **POST** endpoints  
+- Using **Pydantic Models** for data validation  
+- Exploring **Automatic API Docs** with Swagger UI (`/docs`)  
+- Running the server locally using `uvicorn`
+
+🌼 **Mini Project:**  
+- Built a **Bookstore API** with CRUD (Create, Read, Update, Delete) operations  
+- Managed book details such as title, author, and price  
+- Implemented data validation and tested endpoints using FastAPI’s interactive docs  
+
+📂 **Platform:**  
+- VS Code / Jupyter Notebook  
+
+🧠 **Concepts Covered:**  
+- RESTful API principles  
+- FastAPI basics (`@app.get`, `@app.post`, etc.)  
+- Request & Response Models  
+- JSON handling  
+- API Documentation  
+
+📘 **Code Location:**  
+[Day_80](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_80.py)
+
+----
+
 
 
 
