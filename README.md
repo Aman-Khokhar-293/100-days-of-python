@@ -1304,6 +1304,28 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🚀 Day 81 – JWT Authentication in FastAPI
+
+- What is **JWT (JSON Web Token)** and why it’s used in web apps  
+- How **authentication** and **authorization** work in FastAPI  
+- Implementing **JWT-based user login** and secure routes  
+- Generating and verifying access tokens  
+- Handling token expiry and user identity  
+
+🌟 **Mini Project:**  
+- Built a simple **User Authentication System** using JWT in FastAPI  
+- Created protected endpoints accessible only to authenticated users  
+
+🧩 **Tech Stack:**  
+- FastAPI  
+- Python  
+- JWT (PyJWT library)
+
+#### 📁 **Code Location:**  
+[Day_81](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_81.py)
+
+----
+
 
 
 
