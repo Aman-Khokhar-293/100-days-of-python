@@ -1326,6 +1326,32 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 📊 Day 82 – Model Validation Techniques
+
+- What is **Model Validation** in Machine Learning  
+- Why validation is important before testing  
+- Overview of different **validation techniques**:
+  - Hold-out validation
+  - K-Fold Cross-Validation
+  - Stratified K-Fold
+  - Leave-One-Out Cross-Validation (LOOCV)
+- Implementing model validation in **Scikit-learn**
+- Comparing validation scores to detect **overfitting/underfitting**
+
+🌟 **Mini Project:**  
+- Validated Logistic Regression and Decision Tree models using multiple validation techniques  
+- Compared accuracy & variance across K-Fold and Stratified K-Fold  
+
+🧩 **Tech Stack:**  
+- Python  
+- Scikit-learn  
+- Pandas, NumPy  
+
+#### 📁 **Code Location:**  
+[Day_82](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_82.ipynb)
+
+----
+
 
 
 
