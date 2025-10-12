@@ -1352,12 +1352,38 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🧠 Day 83 – Feature Selection Methods
+
+- What is **Feature Selection** in Machine Learning  
+- Why feature selection improves model accuracy and reduces overfitting  
+- Overview of **Feature Selection Techniques**:
+  - Filter Methods (e.g., Correlation, Chi-Square)
+  - Wrapper Methods (e.g., Recursive Feature Elimination - RFE)
+  - Embedded Methods (e.g., Feature importance via Tree-based models)
+- Implementing feature selection using **Scikit-learn**
+- Visualizing important features for better interpretability  
+
+🌟 **Mini Project:**  
+- Compared Logistic Regression & Random Forest models before and after feature selection  
+- Evaluated accuracy improvement and model simplicity  
+
+🧩 **Tech Stack:**  
+- Python  
+- Scikit-learn  
+- Pandas, NumPy, Matplotlib  
+
+#### 📁 **Code Location:**  
+[Day_83](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_83.ipynb)
+
+----
 
 
 
 
 
--------
+
+
+*-*-*-*-*-*-*-*
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech Computer Engineering (Artificial Intelligence) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
