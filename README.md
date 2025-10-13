@@ -1289,8 +1289,7 @@ Bank Account with private balance (Encapsulation)
 - Managed book details such as title, author, and price  
 - Implemented data validation and tested endpoints using FastAPI’s interactive docs  
 
-📂 **Platform:**  
-- VS Code / Jupyter Notebook  
+
 
 🧠 **Concepts Covered:**  
 - RESTful API principles  
@@ -1316,10 +1315,6 @@ Bank Account with private balance (Encapsulation)
 - Built a simple **User Authentication System** using JWT in FastAPI  
 - Created protected endpoints accessible only to authenticated users  
 
-🧩 **Tech Stack:**  
-- FastAPI  
-- Python  
-- JWT (PyJWT library)
 
 #### 📁 **Code Location:**  
 [Day_81](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_81.py)
@@ -1342,10 +1337,6 @@ Bank Account with private balance (Encapsulation)
 - Validated Logistic Regression and Decision Tree models using multiple validation techniques  
 - Compared accuracy & variance across K-Fold and Stratified K-Fold  
 
-🧩 **Tech Stack:**  
-- Python  
-- Scikit-learn  
-- Pandas, NumPy  
 
 #### 📁 **Code Location:**  
 [Day_82](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_82.ipynb)
@@ -1367,13 +1358,30 @@ Bank Account with private balance (Encapsulation)
 - Compared Logistic Regression & Random Forest models before and after feature selection  
 - Evaluated accuracy improvement and model simplicity  
 
-🧩 **Tech Stack:**  
-- Python  
-- Scikit-learn  
-- Pandas, NumPy, Matplotlib  
 
 #### 📁 **Code Location:**  
 [Day_83](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_83.ipynb)
+
+----
+----
+
+### ⏱️ Day 84 – Time Series Basics
+
+- What is a **Time Series** and its key components  
+- Difference between **time-dependent** and **independent** data  
+- Understanding **trend**, **seasonality**, and **noise**  
+- How to handle **DateTime** features in Python  
+- Visualizing time series data with **Matplotlib** & **Pandas**  
+- Basic operations: resampling, shifting, rolling mean  
+
+🌟 **Mini Project:**  
+- Analyzed a **daily temperature dataset** to identify trends and seasonal patterns  
+- Applied rolling averages and visualized long-term trends  
+
+ 
+
+#### 📁 **Code Location:**  
+[Day_84](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_84.ipynb)
 
 ----
 
@@ -1383,7 +1391,6 @@ Bank Account with private balance (Encapsulation)
 
 
 
-*-*-*-*-*-*-*-*
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech Computer Engineering (Artificial Intelligence) @ Ganpat University  
 🌐 LinkedIn: [linkedin.com/in/amankhokhar293](https://linkedin.com/in/amankhokhar293)
