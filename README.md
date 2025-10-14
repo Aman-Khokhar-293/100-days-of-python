@@ -1385,6 +1385,28 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 📈 Day 85 – Time Series Forecasting
+
+- What is **Time Series Forecasting** and how it differs from regression  
+- Key steps in building forecasting models  
+  - Stationarity check & differencing  
+  - Train-test split on time order  
+  - Model fitting (ARIMA / Linear Regression)  
+  - Forecasting future values  
+- Understanding **ACF/PACF** plots  
+- Evaluating forecast accuracy using **MAE** and **RMSE**  
+
+🌟 **Mini Project:**  
+- Forecasted temperature values using ARIMA and Linear Regression models  
+- Compared model performance and visualized predictions  
+
+
+#### 📁 **Code Location:**  
+[Day_85](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_85.ipynb)
+
+----
+
+
 
 
 
