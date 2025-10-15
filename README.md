@@ -1406,6 +1406,31 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🎯 Day 86 – Recommendation Systems
+
+- What is a **Recommendation System** and how it powers personalization  
+- Types of recommender systems:
+  - **Content-Based Filtering** (based on item similarity)
+  - **Collaborative Filtering** (based on user-item interactions)
+- Measuring similarity using **Cosine Similarity** and **Correlation**
+- Implementing simple recommenders using **Scikit-learn** & **Pandas**
+
+🌟 **Mini Project:**  
+- Built a **Movie Recommendation System** using Content-Based and Collaborative Filtering  
+- Suggested similar movies using cosine similarity  
+- Compared both approaches on sample user preferences  
+
+🧩 **Tech Stack:**  
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+
+#### 📁 **Code Location:**  
+[Day_86](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_86.ipynb)
+
+----
+
+
 
 
 
