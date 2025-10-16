@@ -1430,6 +1430,29 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🧩 Day 87 – Advanced Feature Engineering
+
+- What is **Feature Engineering** and why it’s critical for ML performance  
+- Advanced techniques explored:
+  - Handling missing values intelligently  
+  - Encoding categorical features (One-Hot, Label, Target encoding)  
+  - Feature scaling and transformation (StandardScaler, PowerTransformer)  
+  - Feature interaction and polynomial features  
+  - Feature extraction using PCA (Principal Component Analysis)
+- Applied these methods on sample datasets using **Scikit-learn** and **Pandas**
+
+🌟 **Mini Project:**  
+- Engineered features for a house price prediction dataset  
+- Created new interaction terms & reduced dimensionality using PCA  
+- Compared model accuracy before vs. after feature engineering  
+
+
+#### 📁 **Code Location:**  
+[Day_87](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_87.ipynb)
+
+----
+
+
 
 
 
