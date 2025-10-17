@@ -1452,6 +1452,29 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🧠 Day 88 – Model Interpretability & Explainability
+
+- Learned how to interpret and explain machine learning model predictions  
+- Explored popular model explainability frameworks:
+  - **SHAP (SHapley Additive exPlanations)** for feature importance & global explanations  
+  - **LIME (Local Interpretable Model-agnostic Explanations)** for local prediction analysis  
+- Compared global vs. local interpretability  
+- Visualized feature contributions on predictions  
+- Used a Random Forest model trained on classification data
+
+🌟 **Mini Project:**  
+- Built a classification model on a **Heart Disease Dataset**  
+- Applied SHAP and LIME to interpret the model’s predictions  
+- Visualized key features influencing health risk prediction  
+
+ 
+
+#### 📁 **Code Location:**  
+[Day_88](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_88.ipynb)
+
+----
+
+
 
 
 
