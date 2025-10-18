@@ -1474,6 +1474,31 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### ⚙️ Day 89 – Hyperparameter Tuning
+
+- Explored techniques to improve model performance using hyperparameter optimization  
+- Covered:
+  - **Manual Search** (Baseline)
+  - **GridSearchCV** – Exhaustive search over parameter grid  
+  - **RandomizedSearchCV** – Efficient random combinations of parameters  
+  - **Optuna** – Advanced automated hyperparameter tuning framework  
+- Compared accuracy & training time for each method  
+
+🌟 **Mini Project:**  
+- Tuned hyperparameters for a **Random Forest Classifier** on the Iris dataset  
+- Improved accuracy from ~90% → ~97% using optimized parameters  
+- Visualized Optuna optimization process and best parameters  
+
+🧩 **Tech Stack:**  
+- Python  
+- Scikit-learn  
+- Optuna  
+
+#### 📁 **Code Location:**  
+[Day_89](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_89.ipynb)
+
+----
+
 
 
 
