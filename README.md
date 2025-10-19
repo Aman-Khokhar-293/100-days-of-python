@@ -1499,6 +1499,31 @@ Bank Account with private balance (Encapsulation)
 
 ----
 
+### 🚨 Day 90 – Advanced Unsupervised Learning (Anomaly Detection)
+
+- Explored techniques to detect anomalies and outliers using unsupervised learning  
+- Implemented multiple methods:
+  - **Z-Score & IQR** (Statistical methods)
+  - **Isolation Forest**
+  - **Local Outlier Factor (LOF)**
+  - **One-Class SVM**
+- Compared anomaly detection performance on synthetic datasets  
+- Visualized detected anomalies using scatter plots  
+
+🌟 **Mini Project:**  
+- Applied **Isolation Forest** on a transaction dataset to detect fraudulent behavior  
+- Compared results with Local Outlier Factor and One-Class SVM  
+
+🧩 **Tech Stack:**  
+- Python  
+- Scikit-learn, NumPy, Pandas, Matplotlib  
+
+#### 📁 **Code Location:**  
+[Day_90](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_90.ipynb)
+
+----
+
+
 
 
 
