@@ -1363,7 +1363,6 @@ Bank Account with private balance (Encapsulation)
 [Day_83](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_83.ipynb)
 
 ----
-----
 
 ### ⏱️ Day 84 – Time Series Basics
 
@@ -1522,21 +1521,21 @@ Bank Account with private balance (Encapsulation)
 [Day_90](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_90.ipynb)
 
 ----
-# Day 91 - MLOps 1: Model Packaging & Dependency Management
+### Day 91 - MLOps 1: Model Packaging & Dependency Management
 
-## Learning Objectives
 - Understand model packaging best practices
 - Master dependency management for ML projects
 - Create reproducible ML environments
 - Learn packaging and distribution techniques
 
-## Technologies Used
+🧩 **Tech Stack:**
 - Python
 - setuptools
 - Virtual Environments
 - PyPI packaging
-
-## Project Structure
+  
+#### 📁 Project Structure
+````
 Day_91/
 │
 ├── model_packaging/
@@ -1550,13 +1549,16 @@ Day_91/
 ├── train_model.py
 └── README.md
 
+````
+
 ## Key Achievements
 - Created properly packaged ML models
 - Implemented dependency management
 - Set up reproducible environments
 - Learned packaging best practices
 
-## Mini Project: ML Model Packaging Demo
+🌟 **Mini Project:**
+- ML Model Packaging Demo
 
 **View Code:** [Day 91 - MLOps 1](https://github.com/aman-Khokhar-293/100-days-of-python/blob/main/Day_91)
 
