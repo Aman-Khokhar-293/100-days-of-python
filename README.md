@@ -1563,6 +1563,50 @@ Day_91/
 **View Code:** [Day 91 - MLOps 1](https://github.com/aman-Khokhar-293/100-days-of-python/blob/main/Day_91)
 
 ----
+### Day 92 - MLOps 2: Introduction to Docker for ML
+
+- Understand Docker fundamentals and containerization concepts
+- Learn to create Dockerfiles for ML applications
+- Build and manage Docker images and containers
+- Master best practices for ML Docker images
+- Enable reproducible ML deployments across environments
+
+🧩 **Tech Stack:**
+- Docker
+- Python
+- Flask
+- Scikit-learn
+- Docker Compose
+
+#### 📁 Project Structure
+````
+Day_92/
+│
+├── ml_app/
+│   ├── init.py
+│   ├── model.py
+│   ├── app.py
+│   └── requirements.txt
+│
+├── Dockerfile
+├── docker-compose.yml
+├── .dockerignore
+├── build_and_run.sh
+└── README.md
+````
+
+## Key Achievements
+- Successfully containerized ML application
+- Built optimized Docker images for ML workloads
+- Implemented multi-stage builds for smaller images
+- Created reproducible development and production environments
+
+🌟 **Mini Project:**
+Dockerized ML Web Application
+
+**View Code:** [Day 92 - MLOps 2](https://github.com/aman-Khokhar-293/100-days-of-python/blob/main/Day_92)
+
+---
 
 
 
