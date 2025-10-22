@@ -1607,7 +1607,53 @@ Dockerized ML Web Application
 **View Code:** [Day 92 - MLOps 2](https://github.com/aman-Khokhar-293/100-days-of-python/blob/main/Day_92)
 
 ---
+# Day 93 - MLOps 3: Model Tracking with MLflow
 
+## Learning Objectives
+- Master MLflow Tracking for experiment management
+- Learn to use MLflow Model Registry for version control
+- Implement experiment comparison and visualization
+- Understand MLflow Projects for reproducible runs
+- Set up local MLflow tracking server
+
+## Technologies Used
+- MLflow
+- Scikit-learn
+- XGBoost
+- Hyperopt
+- Pandas
+- Matplotlib
+- SQLite
+
+## Project Structure
+````
+Day_93/
+│
+├── mlflow_experiments/
+│   ├── init.py
+│   ├── train_with_mlflow.py
+│   ├── hyperparameter_tuning.py
+│   └── model_registry_demo.py
+│
+├── mlruns/*
+├── models/*
+├── requirements.txt
+├── run_mlflow_server.sh
+└── README.md
+````
+
+## Key Achievements
+- Set up MLflow tracking server
+- Logged experiments with parameters, metrics, and artifacts
+- Implemented hyperparameter tuning with tracking
+- Used MLflow Model Registry for version management
+- Created reproducible ML pipelines
+
+## Mini Project: Comprehensive ML Experiment Tracking
+
+**View Code:** [Day 93 - MLOps 3](https://github.com/aman-Khokhar-293/100-days-of-python/blob/main/Day_93)
+
+---
 
 
 
