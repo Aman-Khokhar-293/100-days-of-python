@@ -1653,6 +1653,60 @@ Day_93/
 
 **View Code:** [Day 93 - MLOps 3](https://github.com/aman-Khokhar-293/100-days-of-python/blob/main/Day_93)
 
+----
+### 🧠 Day 94 – Model Deployment with Flask (Web App)
+
+Today I learned how to deploy a Machine Learning model using Flask and serve predictions through a simple web interface built with HTML.
+
+
+### ✅ Key Learnings
+- Integrating ML models with Flask for real-time inference  
+- Structuring an ML app with templates & `app.py`  
+- Using HTML forms to collect user input  
+- Loading pre-trained model files (`pickle`) in Flask  
+- Returning predictions dynamically on a webpage
+
+
+
+### 🧠 Mini Project
+Built a **House Price Prediction Web App**, where a user enters:
+- Area (sqft)
+- Bedrooms
+- Bathrooms
+
+and receives an **estimated house price** predicted by a trained ML model.
+
+
+
+### 📁 Project Folder Structure
+
+```
+Day_94/
+│
+├── train_model.py              # Script to train and save model
+├── house_price_model.pkl       # Saved ML model (generated after training)
+├── app.py                      # Flask application
+│
+└── templates/
+    └── index.html              # HTML form for user input + result display
+```
+
+
+
+### ⚙️ Tech Stack
+| Component     | Description          |
+|--------------|-----------------------|
+| Python       | Core programming      |
+| Flask        | Web framework         |
+| Scikit-learn | Model training        |
+| Pickle       | Model serialization   |
+| HTML         | Frontend UI           |
+
+
+
+### 📎 Code Location
+[Day_94](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_94)
+
 ---
 
 
