@@ -1,1 +1,25 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>House Price Predictor</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f3f4f6; text-align: center; margin-top: 80px; }
+    form { background: white; display: inline-block; padding: 20px 30px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    input { margin: 8px; padding: 6px; width: 180px; }
+    button { padding: 8px 18px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; }
+    button:hover { background: #0056b3; }
+    h2 { color: #333; }
+  </style>
+</head>
+<body>
+  <h2>🏠 House Price Prediction</h2>
+  <form action="/predict" method="post">
+    <input type="number" name="area" placeholder="Area (sqft)" required><br>
+    <input type="number" name="bedrooms" placeholder="Bedrooms" required><br>
+    <input type="number" name="bathrooms" placeholder="Bathrooms" required><br>
+    <button type="submit">Predict</button>
+  </form>
+  <h3 style="color:green;">{{ prediction_text }}</h3>
+</body>
+</html>
