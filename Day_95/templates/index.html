@@ -1,1 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Day 95 — MLE vs Bayesian (Conversion Rate)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; background: #f7fafc; color: #111827; padding: 30px; text-align: center; }
+    .card { background: #fff; display: inline-block; padding: 20px 24px; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); max-width: 720px; width: 100%; }
+    textarea { width: 98%; height: 80px; padding: 8px; margin: 8px 0; border-radius: 6px; border: 1px solid #d1d5db; }
+    input[type="number"] { padding: 8px; width: 140px; margin: 6px; border-radius: 6px; border: 1px solid #d1d5db; }
+    button { padding: 10px 18px; border-radius: 8px; border: none; background: #0ea5a4; color: white; cursor: pointer; }
+    .result { text-align: left; margin-top: 12px; }
+    .error { color: #b91c1c; font-weight: bold; }
+    .small { color: #6b7280; font-size: 0.9em; }
+  </style>
+</head>
+<body>
+  <h1>Day 95 — MLE vs Bayesian (Conversion Rate)</h1>
+  <div class="card">
+    <p class="small">Uniform prior: <strong>Beta(1,1)</strong> (no prior assumptions)</p>
 
+    <form method="post">
+      <label><strong>Option A — paste sequence of 0/1 events</strong></label><br>
+      <textarea name="sequence" placeholder="Example: 1 0 1 1 0 0 1">{{ input_seq }}</textarea>
+
+      <p class="small">OR</p>
+
+      <label><strong>Option B — supply counts</strong></label><br>
+      <input type="number" name="successes" min="0" placeholder="Successes (S)" value="{{ successes }}">
+      <input type="number" name="trials" min="1" placeholder="Trials (N)" value="{{ trials }}"><br><br>
+
+      <button type="submit">Compute</button>
+    </form>
+
+    {% if result %}
+      <div class="result">
+        {% if result.error %}
+          <p class="error">{{ result.error }}</p>
+        {% else %}
+          <h3>Results</h3>
+          <p><strong>Successes (S):</strong> {{ result.S }} &nbsp; <strong>Trials (N):</strong> {{ result.N }}</p>
+          <p><strong>MLE (p̂):</strong> {{ ('{:.4f}'.format(result.MLE) if result.MLE is not none else 'N/A') }}</p>
+          <p><strong>Posterior:</strong> Beta(α={{ result.alpha }}, β={{ result.beta }})</p>
+          <p><strong>Posterior mean:</strong> {{ '{:.4f}'.format(result.posterior_mean) }}</p>
+          <p><strong>Posterior MAP:</strong> {{ '{:.4f}'.format(result.posterior_map) }}</p>
+          <p><strong>95% credible interval:</strong> [{{ '{:.4f}'.format(result.ci_lower) }}, {{ '{:.4f}'.format(result.ci_upper) }}]</p>
+
+          <h4>Posterior plot</h4>
+          <img src="{{ url_for('posterior_plot') }}?alpha={{ result.alpha }}&beta={{ result.beta }}" alt="Posterior plot" style="max-width:100%; border-radius:8px;">
+        {% endif %}
+      </div>
+    {% endif %}
+  </div>
+
+  <p style="margin-top:18px; color:#6b7280; font-size:0.9em;">Tip: For small N, Bayesian posterior is more stable than raw MLE; using a prior lets you express uncertainty.</p>
+</body>
+</html>
