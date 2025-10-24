@@ -1708,6 +1708,43 @@ Day_94/
 [Day_94](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_94)
 
 ---
+# Day 95 — Bayesian Inference & MLE (Practical)
+
+A small Flask web app that demonstrates **estimating a conversion rate** using:
+- **MLE** (point estimate p̂ = successes / trials)
+- **Bayesian inference** with a **Uniform prior Beta(1,1)** → Beta posterior
+
+This project is framed as estimating the conversion rate of a landing page from binary data (1 = convert, 0 = no-convert).
+
+---
+
+## Features
+- Accepts input as a sequence of 0/1 events (e.g. `1 0 0 1 1`) **or** numeric `successes` and `trials`.
+- Returns MLE, Bayesian posterior mean, MAP, and 95% credible interval.
+- Renders a posterior distribution plot (served dynamically).
+- Lightweight and easy to run locally.
+
+---
+
+## Project Folder Structure
+
+```
+Day_95/
+│
+├── app.py                      # Flask application (main)
+├── requirements.txt            # Python dependencies
+├── README.md                   # This file
+│
+└── templates/
+    └── index.html              # Web UI: form + results
+```
+
+### 📎 Code Location
+[Day_94](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_94)
+
+
+---
+
 
 
 
