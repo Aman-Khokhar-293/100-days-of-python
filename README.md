@@ -1739,7 +1739,7 @@ Day_95/
 ```
 
 ### 📎 Code Location
-[Day_94](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_94)
+[Day_95](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_95)
 
 
 ---
