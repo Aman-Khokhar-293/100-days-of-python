@@ -1716,7 +1716,6 @@ A small Flask web app that demonstrates **estimating a conversion rate** using:
 
 This project is framed as estimating the conversion rate of a landing page from binary data (1 = convert, 0 = no-convert).
 
----
 
 ## Features
 - Accepts input as a sequence of 0/1 events (e.g. `1 0 0 1 1`) **or** numeric `successes` and `trials`.
@@ -1724,7 +1723,7 @@ This project is framed as estimating the conversion rate of a landing page from 
 - Renders a posterior distribution plot (served dynamically).
 - Lightweight and easy to run locally.
 
----
+
 
 ## Project Folder Structure
 
