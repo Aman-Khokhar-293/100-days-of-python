@@ -1772,7 +1772,7 @@ Objective: Test if two marketing campaigns (A & B) have significantly different 
 ```
 Day_96/
 ├── campaign_test.py # Script for statistical testing
-└── results.png      # Visualization of test outcomes
+└── Figure_1.png     # Visualization of test outcomes
 
 ```
 
@@ -1787,7 +1787,6 @@ Day_96/
 | Matplotlib  | Data visualization          |
 | Seaborn     | Statistical plots           |
 
----
 
 ### 🔗 Code Location  
 
