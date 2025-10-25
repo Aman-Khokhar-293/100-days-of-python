@@ -1744,7 +1744,56 @@ Day_95/
 
 ---
 
+## 🧮 Day 96 – Advanced Statistical Testing  
 
+Today I explored how to perform **advanced hypothesis testing** to compare groups, validate assumptions, and make data-driven decisions confidently.  
+
+### 🧠 Key Learnings  
+- Understanding null and alternative hypotheses  
+- Implementing **t-tests**, **ANOVA**, and **Chi-square tests**  
+- Applying **Mann–Whitney U** and **Kruskal–Wallis** tests for non-parametric data  
+- Visualizing statistical differences using boxplots and histograms  
+- Drawing conclusions based on **p-values** and confidence intervals  
+
+
+### 📊 Mini Project – *Comparing Two Marketing Campaigns*  
+
+Objective: Test if two marketing campaigns (A & B) have significantly different **conversion rates**.  
+
+**Steps:**  
+1. Generated sample data for conversions.  
+2. Performed a **two-sample t-test** to compare means.  
+3. Used a **Chi-square test** for categorical conversion outcomes.  
+4. Visualized group distributions using Seaborn.  
+
+---
+
+### 📁 Project Folder Structure  
+```
+Day_96/
+├── campaign_test.py # Script for statistical testing
+└── results.png      # Visualization of test outcomes
+
+```
+
+### ⚙️ Tech Stack  
+
+| Component  | Description                 |
+|-------------|-----------------------------|
+| Python      | Core programming language   |
+| Pandas      | Data manipulation           |
+| NumPy       | Numerical operations        |
+| SciPy       | Statistical tests           |
+| Matplotlib  | Data visualization          |
+| Seaborn     | Statistical plots           |
+
+---
+
+### 🔗 Code Location  
+
+[Day_96](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_96)
+
+---
 
 
 
