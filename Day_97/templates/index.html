@@ -1,1 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day 97: Sales Forecasting</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            text-align: center;
+            max-width: 400px;
+            width: 100%;
+        }
+        
+        h2 {
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        
+        .badge {
+            background: #ff6b6b;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 12px;
+            display: inline-block;
+            margin-bottom: 15px;
+        }
+        
+        form {
+            margin: 25px 0;
+        }
+        
+        input {
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            width: 100px;
+            margin-right: 10px;
+            font-size: 16px;
+        }
+        
+        button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        .result {
+            background: #e8f4fd;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .prediction {
+            font-size: 18px;
+            font-weight: bold;
+            color: #27ae60;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="badge">Day 97</div>
+        <h2>📈 Sales Forecasting</h2>
+        <p>Using ARIMA Model</p>
+        
+        <form action="/predict" method="POST">
+            <label>Enter months to forecast:</label><br>
+            <input type="number" name="months" min="1" max="12" required>
+            <button type="submit">Predict</button>
+        </form>
 
+        {% if prediction %}
+        <div class="result">
+            <h3>Forecasted Sales:</h3>
+            <div class="prediction">{{ prediction }}</div>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
