@@ -1794,9 +1794,50 @@ Day_96/
 
 ---
 
+## 📅 Day 97 – Time Series Forecasting with ARIMA
+
+Today I explored **ARIMA (AutoRegressive Integrated Moving Average)** — a foundational model in **time series forecasting**, often used for predicting financial data, weather trends, and business metrics.
+
+### 🧠 Key Learnings
+- Understanding key components of time series: *Trend, Seasonality, Noise*
+- Making a series **stationary** using differencing
+- Building and tuning ARIMA models (`p`, `d`, `q` parameters)
+- Forecast evaluation using **RMSE**
+- Visualizing predictions vs. actual data using **Matplotlib**
 
 
+### 💡 Mini Project
+Built a **Sales Forecasting Demo Web App**, where users can:
+- Upload or use default monthly sales data  
+- Model is trained using **ARIMA**  
+- Predict and visualize **future sales** for upcoming months  
 
+
+### 📁 Project Folder Structure
+```
+Day_97/
+├── train_arima_model.py   # Script to train ARIMA model
+├── forecast_app.py   # Flask web app to display predictions
+├── sales_data.csv   # Sample historical sales data
+├── model.pkl       # Saved ARIMA model
+├── templates/
+│   └── index.html   # Frontend for user interaction
+```
+### ⚙️ Tech Stack
+| Component     | Description                  |
+|----------------|------------------------------|
+| Python         | Core programming language     |
+| Pandas/NumPy   | Data preprocessing and analysis |
+| Statsmodels    | ARIMA implementation          |
+| Matplotlib     | Data visualization            |
+| Flask          | Simple web app for deployment |
+| Pickle         | Model saving/loading          |
+
+
+### 🔗 Code Location
+[Day_97](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_97)
+
+---
 
 
 ### 🙋‍♂️ Author
