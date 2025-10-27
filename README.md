@@ -1838,7 +1838,51 @@ Day_97/
 [Day_97](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_97)
 
 ---
+## Day 98 - Advanced Ensemble Methods
 
+Today I learned about Advanced Ensemble Methods that combine multiple machine learning models to create more powerful and accurate predictors.
+
+## Key Learnings
+- **Stacking**: Using meta-learners to combine base models
+- **Voting Classifiers**: Majority (hard) and average probability (soft) voting
+- **Bagging**: Bootstrap Aggregating with Random Forest
+- **Boosting**: Sequential learning with XGBoost, LightGBM, CatBoost
+- **Hyperparameter Optimization**: Tuning ensemble models for best performance
+
+## Mini Project
+Built an **Advanced Ensemble Classification System** that:
+- Implements Stacking with diverse base models
+- Compares Voting Classifier performance
+- Benchmarks XGBoost, LightGBM, and CatBoost
+- Evaluates ensemble vs individual model performance
+
+## Project Folder Structure
+```
+Day_98/
+│
+├── train_ensemble_model.py      # Script to train and save ensemble models
+├── ensemble_model.pkl           # Saved ensemble model (generated after training)
+├── app.py                       # Flask application for ensemble prediction
+│
+└── templates/
+    └── index.html               # HTML form for model comparison and predictions
+```
+## Tech Stack
+
+| Component       | Description |
+|-----------------|-------------|
+| Python          | Core programming |
+| Scikit-learn    | Ensemble methods and metrics |
+| XGBoost         | Gradient boosting implementation |
+| LightGBM        | Lightweight gradient boosting |
+| CatBoost        | Categorical feature handling |
+| Flask           | Web framework for deployment |
+| Pickle          | Model serialization |
+
+## Code Location
+[Day_98](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_98)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech Computer Engineering (Artificial Intelligence) @ Ganpat University  
