@@ -1883,6 +1883,49 @@ Day_98/
 [Day_98](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_98)
 
 ----
+## Day 99 - Data Warehouse & OLAP Systems
+
+Today I learned about Data Warehousing and OLAP systems, which form the foundation of modern business intelligence and analytical processing.
+
+## Key Learnings
+- **Data Warehouse Architecture**: Components and design principles
+- **OLAP Operations**: Roll-up, Drill-down, Slice, Dice, Pivot
+- **Dimensional Modeling**: Star Schema and Snowflake Schema
+- **ETL Processes**: Extract, Transform, Load pipelines
+- **Multidimensional Analysis**: Cube operations and aggregations
+
+## Mini Project
+Built a **Sales Data Warehouse with OLAP Operations** that:
+- Implements Star Schema design with fact and dimension tables
+- Performs multidimensional analysis using OLAP operations
+- Simulates ETL processes for data loading
+- Provides business intelligence insights through cube operations
+
+## Project Folder Structure
+````
+Day_99/
+│
+├── data_warehouse_etl.py        # ETL pipeline and OLAP operations
+├── olap_analysis.py             # OLAP analysis and cube operations
+├── app.py                       # Flask dashboard for OLAP insights
+│
+└── templates/
+    └── index.html               # OLAP operations dashboard
+````
+## Tech Stack
+| Component       | Description |
+|-----------------|-------------|
+| Python          | Core programming |
+| Pandas          | Data manipulation and analysis |
+| SQL             | Database operations and queries |
+| Matplotlib      | Data visualization |
+| Flask           | Web dashboard framework |
+| JSON            | Data serialization |
+
+## Code Location
+[Day_99](https://github.com/Aman-Khokhar-293/100-days-of-python/blob/main/Day_99)
+
+----
 
 ### 🙋‍♂️ Author
 Aman Khokhar | B.Tech Computer Engineering (Artificial Intelligence) @ Ganpat University  
