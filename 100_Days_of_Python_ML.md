@@ -99,4 +99,4 @@
 | 97 | Time Series Forecasting with ARIMA | SUN | 26-10-2025 |
 | 98 | Advanced Ensemble Methods | MON | 27-10-2025 |
 | 99 | Data Warehouse & OLAP Systems | TUE | 28-10-2025 |
-| 100 | End-to-end data pipeline, model deployment, dashboard | WED | 29-10-2025 |
+| 100 | AI-Powered Data Science Workflow Automator | WED | 29-10-2025 |
